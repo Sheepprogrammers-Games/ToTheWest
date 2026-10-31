@@ -1,0 +1,66 @@
+/* Relationship-driven silhouette direction. The role layer keeps the listener visible without stealing the line. */
+.character{--gesture-x:0%;--gesture-rotate:0deg;--gesture-scale:1;--gesture-speed:3.6s}
+.character[data-role="watching"]{opacity:.3;filter:brightness(.34) saturate(.38) contrast(1.1) drop-shadow(0 17px 18px rgba(0,0,0,.42));transform:translateY(1.2%) scale(.98)}
+.character[data-role="watching"] img{animation:watchBreath 7.4s ease-in-out infinite}
+.character[data-role="responding"]{opacity:.74;filter:brightness(.76) saturate(.78) contrast(1.08) drop-shadow(0 13px 18px rgba(0,0,0,.5));transform:translate(var(--gesture-x),-.5%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate));z-index:3}
+.character[data-role="responding"] img{animation:respondBreath 4.5s ease-in-out infinite}
+.character.active[data-role="active"]{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate));z-index:4}
+.character.active[data-role="active"] img{animation:activeBreath 3.2s ease-in-out infinite}
+.character[data-role="responding"][data-emotion="patient"],.character[data-role="responding"][data-emotion="compassionate"],.character[data-role="responding"][data-emotion="warm"]{filter:brightness(.84) saturate(.76) contrast(1.04) drop-shadow(0 12px 19px rgba(216,173,94,.2))}
+.character[data-role="responding"][data-emotion="menace"],.character[data-role="responding"][data-emotion="suspicious"]{filter:brightness(.78) saturate(.9) contrast(1.15) drop-shadow(0 12px 22px rgba(191,61,47,.25))}
+.character.active[data-emotion="wary"],.character.active[data-emotion="focused"],.character.active[data-emotion="attentive"],.character.active[data-emotion="watchful"]{filter:brightness(1.07) saturate(.94) contrast(1.12) drop-shadow(0 12px 23px rgba(126,164,174,.25))}
+.character.active[data-emotion="patient"],.character.active[data-emotion="compassionate"],.character.active[data-emotion="warm"],.character.active[data-emotion="solemn"]{filter:brightness(1.1) saturate(.98) contrast(1.02) drop-shadow(0 12px 23px rgba(219,177,91,.32))}
+.character.active[data-emotion="playful"],.character.active[data-emotion="comic"],.character.active[data-emotion="cheerful"]{filter:brightness(1.13) saturate(1.14) contrast(1.02) drop-shadow(0 12px 23px rgba(207,111,103,.31))}
+.character.active[data-emotion="defiant"],.character.active[data-emotion="menace"],.character.active[data-emotion="protective"],.character.active[data-emotion="resolute"]{filter:brightness(1.12) saturate(1.18) contrast(1.12) drop-shadow(0 12px 24px rgba(194,66,45,.35))}
+.character.active[data-emotion="rueful"]{filter:brightness(1.04) saturate(.87) contrast(1.05) drop-shadow(0 12px 21px rgba(185,133,97,.28))}
+.character[data-role="active"][data-expression="doubt"],.character[data-role="responding"][data-expression="doubt"]{filter:brightness(.98) saturate(.82) contrast(1.18) drop-shadow(0 12px 22px rgba(108,144,158,.28))}
+.character[data-role="active"][data-expression="soft"],.character[data-role="active"][data-expression="tender"],.character[data-role="active"][data-expression="calm"],.character[data-role="responding"][data-expression="soft"],.character[data-role="responding"][data-expression="tender"],.character[data-role="responding"][data-expression="calm"]{filter:brightness(1.08) saturate(.98) contrast(1.01) drop-shadow(0 12px 22px rgba(220,180,99,.28))}
+.character[data-role="active"][data-expression="smirk"],.character[data-role="active"][data-expression="flustered"],.character[data-role="responding"][data-expression="smirk"],.character[data-role="responding"][data-expression="flustered"]{filter:brightness(1.08) saturate(1.16) contrast(1.04) drop-shadow(0 12px 22px rgba(204,105,95,.3))}
+.character[data-role="active"][data-expression="grit"],.character[data-role="active"][data-expression="threat"],.character[data-role="active"][data-expression="resolve"],.character[data-role="responding"][data-expression="grit"],.character[data-role="responding"][data-expression="threat"],.character[data-role="responding"][data-expression="resolve"]{filter:brightness(1.08) saturate(1.2) contrast(1.17) drop-shadow(0 12px 24px rgba(194,66,45,.34))}
+.character[data-role="active"][data-expression="alert"],.character[data-role="active"][data-expression="watchful"],.character[data-role="responding"][data-expression="alert"],.character[data-role="responding"][data-expression="watchful"]{filter:brightness(1.05) saturate(.92) contrast(1.18) drop-shadow(0 12px 22px rgba(112,163,170,.28))}
+.character[data-role="active"][data-expression="threat"]{filter:brightness(1.2) saturate(1.22) contrast(1.18) drop-shadow(0 12px 25px rgba(215,77,53,.42))}
+.character[data-role="responding"][data-expression="doubt"],.character[data-role="responding"][data-expression="grit"],.character[data-role="responding"][data-expression="threat"],.character[data-role="responding"][data-expression="resolve"]{filter:brightness(.72) saturate(.94) contrast(1.12) drop-shadow(0 11px 19px rgba(177,79,61,.22))}
+.character.active[data-motion="challenge"]{animation:gestureChallenge 2.35s ease-in-out infinite}
+.character.active[data-motion="strike"]{animation:gestureStrike 2s cubic-bezier(.16,1,.3,1) infinite}
+.character.active[data-motion="protect"]{animation:gestureProtect 3.1s ease-in-out infinite}
+.character.active[data-motion="reassure"]{animation:gestureReassure 3.7s ease-in-out infinite}
+.character.active[data-motion="tease"]{animation:gestureTease 3.15s ease-in-out infinite}
+.character.active[data-motion="scan"]{animation:gestureScan 4.2s ease-in-out infinite}
+.character.active[data-motion="bounce"]{animation:gestureBounce 2.9s ease-in-out infinite}
+.character.active[data-motion="block"]{animation:gestureBlock 3.2s ease-in-out infinite}
+.character.active[data-motion="brace"]{animation:gestureBrace 2.8s ease-in-out infinite}
+.character.active[data-motion="fidget"]{animation:gestureFidget 2.5s ease-in-out infinite}
+.character.active[data-motion="listen"]{animation:gestureListen 4.2s ease-in-out infinite}
+.character.active[data-motion="loom"]{animation:gestureLoom 3.4s ease-in-out infinite}
+.character.active[data-motion="anchor"]{animation:gestureAnchor 4.8s ease-in-out infinite}
+.character[data-role="responding"][data-motion="challenge"]{animation:gestureChallenge 2.35s ease-in-out infinite}
+.character[data-role="responding"][data-motion="strike"]{animation:gestureStrike 2s cubic-bezier(.16,1,.3,1) infinite}
+.character[data-role="responding"][data-motion="protect"]{animation:gestureProtect 3.1s ease-in-out infinite}
+.character[data-role="responding"][data-motion="reassure"]{animation:gestureReassure 3.7s ease-in-out infinite}
+.character[data-role="responding"][data-motion="tease"]{animation:gestureTease 3.15s ease-in-out infinite}
+.character[data-role="responding"][data-motion="scan"]{animation:gestureScan 4.2s ease-in-out infinite}
+.character[data-role="responding"][data-motion="bounce"]{animation:gestureBounce 2.9s ease-in-out infinite}
+.character[data-role="responding"][data-motion="block"]{animation:gestureBlock 3.2s ease-in-out infinite}
+.character[data-role="responding"][data-motion="brace"]{animation:gestureBrace 2.8s ease-in-out infinite}
+.character[data-role="responding"][data-motion="fidget"]{animation:gestureFidget 2.5s ease-in-out infinite}
+.character[data-role="responding"][data-motion="listen"]{animation:gestureListen 4.2s ease-in-out infinite}
+.character[data-role="responding"][data-motion="loom"]{animation:gestureLoom 3.4s ease-in-out infinite}
+.character[data-role="responding"][data-motion="anchor"]{animation:gestureAnchor 4.8s ease-in-out infinite}
+.character[data-role="responding"][data-motion="settle"],.character[data-role="active"][data-motion="settle"],.character[data-role="active"][data-motion="hold"]{animation:none}
+.antagonist:not(.visible){opacity:0!important;pointer-events:none}
+@keyframes watchBreath{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes respondBreath{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.006)}}
+@keyframes gestureChallenge{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) + 1.1%),-2.4%) scale(calc(var(--gesture-scale) + .018)) rotate(calc(var(--gesture-rotate) + .5deg))}}
+@keyframes gestureStrike{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}22%{transform:translate(calc(var(--gesture-x) + 2.2%),-1.6%) scale(calc(var(--gesture-scale) + .012)) rotate(calc(var(--gesture-rotate) + 1deg))}38%{transform:translate(calc(var(--gesture-x) - .5%),-2.1%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}}
+@keyframes gestureProtect{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) + 1%),-2%) scale(calc(var(--gesture-scale) + .012)) rotate(var(--gesture-rotate))}}
+@keyframes gestureReassure{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(var(--gesture-x),-1.9%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) - .35deg))}}
+@keyframes gestureTease{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) - .8%),-2.1%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) - .8deg))}}
+@keyframes gestureScan{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) + 1.2%),-.9%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) + .45deg))}}
+@keyframes gestureBounce{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(var(--gesture-x),-2.3%) scale(calc(var(--gesture-scale) + .014)) rotate(calc(var(--gesture-rotate) + .35deg))}}
+@keyframes gestureBlock{0%,100%{transform:translate(var(--gesture-x),-1.3%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) + 1%),-1.9%) scale(calc(var(--gesture-scale) + .01)) rotate(calc(var(--gesture-rotate) + .25deg))}}
+@keyframes gestureBrace{0%,100%{transform:translate(var(--gesture-x),-.5%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) - 1%),-.1%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) + .55deg))}}
+@keyframes gestureFidget{0%,100%{transform:translate(var(--gesture-x),-.5%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}35%{transform:translate(calc(var(--gesture-x) + .8%),-1.1%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) - .65deg))}70%{transform:translate(calc(var(--gesture-x) - .6%),-.2%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) + .45deg))}}
+@keyframes gestureListen{0%,100%{transform:translate(var(--gesture-x),-.5%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(var(--gesture-x),-.9%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) + .4deg))}}
+@keyframes gestureLoom{0%,100%{transform:translate(var(--gesture-x),-.5%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(calc(var(--gesture-x) - .8%),-1.4%) scale(calc(var(--gesture-scale) + .02)) rotate(var(--gesture-rotate))}}
+@keyframes gestureAnchor{0%,100%{transform:translate(var(--gesture-x),-.5%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}50%{transform:translate(var(--gesture-x),-.8%) scale(var(--gesture-scale)) rotate(calc(var(--gesture-rotate) - .2deg))}}
+@media(max-width:850px){.character[data-role="responding"]{opacity:.65}.character[data-role="watching"]{opacity:.22}.character.active[data-role="active"]{transform:translate(var(--gesture-x),-1%) scale(var(--gesture-scale)) rotate(var(--gesture-rotate))}}

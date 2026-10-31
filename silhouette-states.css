@@ -1,0 +1,58 @@
+/* Fine-grained actor state overlays. The existing relationship layer keeps body movement; this layer makes intent readable. */
+:root{--silhouette-ease:cubic-bezier(.16,1,.3,1)}
+.character{--face-x:50%;--face-y:82%;--face-w:16%;--face-h:12%;--expression-tilt:0deg;--expression-squint:1;--expression-mouth-width:42%;--expression-mouth-rotate:0deg;--expression-glow:.5px;--expression-color:#e8d295;--motion-speed:3.8s;isolation:isolate}
+.character img{position:relative;z-index:2}
+.character figcaption{z-index:4}
+.wukong{--face-x:54%;--face-y:83%;--face-w:17%;--face-h:12%}
+.tang{--face-x:58%;--face-y:83%;--face-w:16%;--face-h:11%}
+.bajie{--face-x:50%;--face-y:82%;--face-w:19%;--face-h:13%}
+.sha{--face-x:52%;--face-y:83%;--face-w:17%;--face-h:12%}
+.antagonist{--face-x:53%;--face-y:84%;--face-w:20%;--face-h:13%}
+
+.silhouette-expression{position:absolute;z-index:3;left:var(--face-x);bottom:var(--face-y);width:var(--face-w);height:var(--face-h);color:var(--expression-color);opacity:0;pointer-events:none;transform:translate(-50%,50%) rotate(var(--expression-tilt));transform-origin:center;scale:1;transition:opacity 220ms var(--silhouette-ease),filter 220ms var(--silhouette-ease),transform 260ms var(--silhouette-ease),scale 220ms var(--silhouette-ease);filter:drop-shadow(0 0 var(--expression-glow) currentColor);mix-blend-mode:screen}
+.character[data-role="active"] .silhouette-expression{opacity:.86;animation:expressionFocus var(--motion-speed) ease-in-out infinite}
+.character[data-role="responding"] .silhouette-expression{opacity:.52;animation:expressionListen calc(var(--motion-speed) + .8s) ease-in-out infinite}
+.expression-brow,.expression-eye,.expression-mouth{position:absolute;display:block;color:inherit}
+.expression-brow{top:8%;width:35%;height:1px;background:currentColor;box-shadow:0 0 var(--expression-glow) currentColor;transform-origin:center}
+.expression-brow-left{left:10%;transform:rotate(calc(var(--expression-tilt) - 11deg))}
+.expression-brow-right{right:10%;transform:rotate(calc(var(--expression-tilt) + 11deg))}
+.expression-eye{top:36%;width:14%;height:13%;border-radius:50%;background:currentColor;box-shadow:0 0 var(--expression-glow) currentColor;transform:scaleY(var(--expression-squint))}
+.expression-eye-left{left:23%}.expression-eye-right{right:23%}
+.expression-mouth{top:67%;left:50%;width:var(--expression-mouth-width);height:18%;border-bottom:1px solid currentColor;border-radius:0 0 12px 12px;box-shadow:0 1px var(--expression-glow) currentColor;transform:translateX(-50%) rotate(var(--expression-mouth-rotate))}
+.character[data-expression="doubt"] .expression-brow-left,.character[data-expression="guilty"] .expression-brow-left,.character[data-expression="watchful"] .expression-brow-left{transform:rotate(calc(var(--expression-tilt) + 7deg))}
+.character[data-expression="doubt"] .expression-brow-right,.character[data-expression="guilty"] .expression-brow-right,.character[data-expression="watchful"] .expression-brow-right{transform:rotate(calc(var(--expression-tilt) + 17deg))}
+.character[data-expression="grit"] .expression-mouth,.character[data-expression="threat"] .expression-mouth,.character[data-expression="resolve"] .expression-mouth{top:72%;border-top:1px solid currentColor;border-bottom:0;border-radius:12px 12px 0 0}
+.character[data-expression="flustered"] .expression-mouth,.character[data-expression="open"] .expression-mouth{top:65%;height:27%;border:1px solid currentColor;border-radius:50%;box-shadow:0 0 var(--expression-glow) currentColor}
+.character[data-expression="smirk"] .expression-mouth{left:57%;border-bottom-width:2px}
+.character[data-expression="soft"] .expression-eye,.character[data-expression="tender"] .expression-eye,.character[data-expression="calm"] .expression-eye,.character[data-expression="mercy"] .expression-eye{top:39%;opacity:.84}
+
+.silhouette-gesture{position:absolute;z-index:1;inset:8% 6% 2%;color:var(--expression-color);opacity:0;pointer-events:none;transition:opacity 220ms var(--silhouette-ease);filter:drop-shadow(0 0 5px currentColor);transform-origin:center;mix-blend-mode:screen}
+.character[data-role="active"] .silhouette-gesture{opacity:.7;animation:gestureSignal var(--motion-speed) var(--silhouette-ease) infinite}
+.character[data-role="responding"] .silhouette-gesture{opacity:.3;animation:gestureSignal calc(var(--motion-speed) + .9s) var(--silhouette-ease) infinite}
+.silhouette-gesture::before,.silhouette-gesture::after,.silhouette-gesture i{content:"";position:absolute;display:block}
+.silhouette-gesture::before{left:25%;top:19%;width:51%;height:34%;border:1px solid currentColor;border-top-color:transparent;border-left-color:transparent;border-radius:50%;opacity:.66;transform:rotate(-20deg)}
+.silhouette-gesture::after{left:31%;top:43%;width:42%;height:1px;background:linear-gradient(90deg,transparent,currentColor,transparent);opacity:.54;transform:rotate(-14deg);transform-origin:left}
+.silhouette-gesture i:first-child{left:39%;top:30%;width:21%;height:21%;border:1px solid currentColor;border-right-color:transparent;border-bottom-color:transparent;border-radius:50%;opacity:.4}
+.silhouette-gesture i:last-child{left:47%;top:37%;width:5px;height:5px;border-radius:50%;background:currentColor;box-shadow:0 0 7px currentColor;opacity:.7}
+.character[data-motion="strike"] .silhouette-gesture::before,.character[data-motion="challenge"] .silhouette-gesture::before,.character[data-motion="block"] .silhouette-gesture::before{left:13%;top:27%;width:70%;height:22%;border-bottom-color:transparent;transform:rotate(-28deg)}
+.character[data-motion="strike"] .silhouette-gesture::after,.character[data-motion="challenge"] .silhouette-gesture::after,.character[data-motion="block"] .silhouette-gesture::after{left:18%;top:38%;width:67%;transform:rotate(-18deg)}
+.character[data-motion="loom"] .silhouette-gesture::before{left:19%;top:14%;width:61%;height:48%;border-color:currentColor;opacity:.44;transform:none}
+.character[data-motion="loom"] .silhouette-gesture::after{display:none}
+.character[data-motion="reassure"] .silhouette-gesture::before,.character[data-motion="settle"] .silhouette-gesture::before,.character[data-motion="listen"] .silhouette-gesture::before{top:13%;height:45%;border-right-color:transparent;border-bottom-color:transparent;transform:rotate(18deg)}
+.character[data-motion="fidget"] .silhouette-gesture::before,.character[data-motion="bounce"] .silhouette-gesture::before{left:34%;top:25%;width:32%;height:22%;border-style:dashed;opacity:.7;transform:rotate(18deg)}
+.character[data-motion="anchor"] .silhouette-gesture::after,.character[data-motion="brace"] .silhouette-gesture::after{left:48%;top:17%;width:1px;height:51%;background:currentColor;transform:none;opacity:.48}
+.character[data-motion="tease"] .silhouette-gesture i:last-child,.character[data-motion="fidget"] .silhouette-gesture i:last-child,.character[data-motion="bounce"] .silhouette-gesture i:last-child{animation:gestureSpark 1.55s ease-in-out infinite}
+.character[data-motion="strike"] .silhouette-gesture{animation-name:gestureSlash}.character[data-motion="challenge"] .silhouette-gesture,.character[data-motion="block"] .silhouette-gesture{animation-name:gestureAdvance}.character[data-motion="loom"] .silhouette-gesture{animation-name:gestureLoom}.character[data-motion="fidget"] .silhouette-gesture,.character[data-motion="bounce"] .silhouette-gesture{animation-name:gestureFidget}.character[data-motion="reassure"] .silhouette-gesture,.character[data-motion="settle"] .silhouette-gesture,.character[data-motion="listen"] .silhouette-gesture{animation-name:gestureReassure}
+
+@keyframes expressionFocus{0%,100%{transform:translate(-50%,50%) rotate(var(--expression-tilt)) scale(1)}50%{transform:translate(-50%,48%) rotate(var(--expression-tilt)) scale(1.035)}}
+@keyframes expressionListen{0%,100%{transform:translate(-50%,50%) rotate(var(--expression-tilt))}50%{transform:translate(-50%,51%) rotate(calc(var(--expression-tilt) + .6deg))}}
+@keyframes gestureSignal{0%,100%{transform:translate3d(0,0,0) scale(1)}50%{transform:translate3d(0,-1.5%,0) scale(1.02)}}
+@keyframes gestureAdvance{0%,100%{transform:translate3d(0,0,0) scale(1)}45%{transform:translate3d(var(--motion-x-soft),-2%,0) scale(1.035)}}
+@keyframes gestureSlash{0%,100%{transform:translate3d(0,0,0) rotate(0);opacity:.72}28%{transform:translate3d(var(--motion-x),-3%,0) rotate(var(--motion-rotate));opacity:1}48%{transform:translate3d(var(--motion-x-soft),-1%,0) rotate(var(--motion-rotate-soft));opacity:.58}}
+@keyframes gestureLoom{0%,100%{transform:scale(1);opacity:.58}50%{transform:translate3d(0,-1%,0) scale(var(--motion-scale-peak));opacity:.86}}
+@keyframes gestureFidget{0%,100%{transform:translate3d(0,0,0) rotate(0)}35%{transform:translate3d(var(--motion-x-soft),-1%,0) rotate(var(--motion-rotate-soft))}70%{transform:translate3d(var(--motion-x-soft-negative),0,0) rotate(var(--motion-rotate-soft-negative))}}
+@keyframes gestureReassure{0%,100%{transform:translate3d(0,0,0) scale(1)}50%{transform:translate3d(0,-1%,0) scale(1.025)}}
+@keyframes gestureSpark{0%,100%{transform:translate3d(0,0,0);opacity:.3}50%{transform:translate3d(7px,-7px,0);opacity:1}}
+
+@media(max-width:850px){.silhouette-expression{opacity:.46!important;scale:.84}.character[data-role="active"] .silhouette-expression{opacity:.68!important}.character[data-role="responding"] .silhouette-expression{opacity:.34!important}.character[data-role="active"] .silhouette-gesture{opacity:.5}.character[data-role="responding"] .silhouette-gesture{opacity:.2}.silhouette-gesture::before{border-width:1px}.silhouette-gesture i:first-child{display:none}}
+@media(prefers-reduced-motion:reduce){.silhouette-expression,.silhouette-gesture{animation:none!important}.silhouette-gesture{transition:none}.character[data-role="active"] .silhouette-expression{opacity:.8}.character[data-role="responding"] .silhouette-expression{opacity:.42}}

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#101119" />
+  <meta name="description" content="一部以皮影戏演出的西游记互动剧情游戏" />
+  <title>西行拾卷</title>
+  <link rel="icon" href="data:," />
+  <link rel="stylesheet" href="assets/fonts/local-fonts.css" data-display="family=Ma+Shan+Zheng" />
+  <link rel="stylesheet" href="shadowplay.css?v=36" />
+  <link rel="stylesheet" href="shadowplay-minigames.css?v=23" />
+</head>
+<body>
+  <main class="theatre" id="app">
+    <section class="start-menu" id="startMenu" role="dialog" aria-modal="true" aria-labelledby="startTitle" aria-hidden="true">
+      <div class="start-vista" aria-hidden="true"><i></i><i></i><i></i></div>
+      <div class="start-layout">
+        <header class="start-brand">
+          <p class="start-kicker">九九八十一难 · 互动西行</p>
+          <h1 id="startTitle">西行拾卷</h1>
+          <button class="start-seal" id="startSeal" type="button" aria-label="叩悟印，听一句西行心诀">悟</button>
+          <p class="start-koan" id="startKoan">叩一叩这方印，西行便有了回声。</p>
+        </header>
+        <div class="start-menu-panel">
+          <p class="start-intro">从花果山到灵山，每次行动、沉默、胜负与因缘都会留在你的西行记录中。</p>
+          <div class="start-save" id="startSaveSummary"></div>
+          <div class="start-actions">
+            <button class="primary" id="startContinue" type="button"><b>继续西行</b><small>读取最近进度</small></button>
+            <button id="startNew" type="button"><b>新的旅程</b><small>从仙石崩裂开始</small></button>
+            <button id="startArchive" type="button"><b>经历长卷</b><small>查看已走过的难关</small></button>
+            <button id="startJournal" type="button"><b>旅痕</b><small>回看每一次重要选择</small></button>
+            <button id="startRelations" type="button"><b>因缘簿</b><small>查看同行者关系变化</small></button>
+            <button id="startSound" type="button" aria-pressed="true"><b>声音</b><small>配音、音效与背景乐已开启</small></button>
+            <div class="audio-mixer start-audio" aria-label="音量">
+              <label class="audio-slider"><span>背景乐</span><input id="startMusicVolume" type="range" min="0" max="100" value="20" /><b id="startMusicVolumeValue">20</b></label>
+              <label class="audio-slider"><span>音效</span><input id="startSfxVolume" type="range" min="0" max="100" value="20" /><b id="startSfxVolumeValue">20</b></label>
+            </div>
+          </div>
+          <footer><span>Enter 确认</span><span>Esc 菜单</span><span>进度自动保存</span></footer>
+        </div>
+      </div>
+    </section>
+    <img class="stage-backdrop" id="stageBackdrop" src="assets/backgrounds/wuxing-stage.png" alt="五行山夜色舞台" decoding="async" fetchpriority="high" />
+    <div class="screen-falloff" aria-hidden="true"></div>
+    <div class="curtain curtain-left" aria-hidden="true"></div>
+    <div class="curtain curtain-right" aria-hidden="true"></div>
+
+    <header class="hud">
+      <div class="scene-stamp" aria-live="polite"><span id="chapterMark">第一卷</span><i></i><strong id="sceneName">花果山</strong></div>
+      <div class="desktop-shortcuts" aria-label="键盘快捷键"><span><kbd>Enter</kbd>继续</span><span><kbd>1–4</kbd>选择</span><span><kbd>A</kbd>自动</span><span><kbd>S</kbd>略过</span><span><kbd>Esc</kbd>菜单</span></div>
+      <div class="hud-controls">
+        <button class="hud-button" id="autoBtn" type="button" aria-pressed="false" aria-label="开启自动播放" title="自动播放"><span class="hud-icon" aria-hidden="true">A</span><span>自动</span></button>
+        <button class="hud-button" id="skipBtn" type="button" aria-label="略过至选择" title="略过至选择"><span class="hud-icon" aria-hidden="true">≫</span><span>略过</span></button>
+        <button class="pause-button" id="pauseBtn" type="button" aria-label="暂停菜单" aria-controls="pauseMenu" aria-expanded="false" aria-keyshortcuts="Escape"><span></span><span></span></button>
+      </div>
+    </header>
+    <aside class="consequence-stack" id="consequenceStack" aria-live="polite" aria-label="选择后果" aria-relevant="additions"></aside>
+
+    <section class="cast-stage" aria-label="西游角色场景">
+      <div class="shadow-screen" aria-hidden="true"></div>
+      <figure class="character stage-actor stage-actor-left" id="actorLeft" data-slot="left">
+        <span class="actor-anchor"><span class="actor-motion"><img src="assets/characters/wukong-bust-neutral.png" alt="" decoding="async" fetchpriority="high" /></span></span>
+        <figcaption><b id="leftActorName"></b><small id="leftActorRole"></small></figcaption>
+      </figure>
+      <figure class="character stage-actor stage-actor-right" id="actorRight" data-slot="right">
+        <span class="actor-anchor"><span class="actor-motion"><img src="assets/characters/tang-bust-neutral.png" alt="" decoding="async" fetchpriority="auto" /></span></span>
+        <figcaption><b id="rightActorName"></b><small id="rightActorRole"></small></figcaption>
+      </figure>
+      <div id="stageParticles" hidden aria-hidden="true"></div>
+    </section>
+
+    <section class="interlude" id="interlude" aria-live="assertive" aria-hidden="true" hidden>
+      <button class="interlude-card" id="interludeAdvance" type="button" aria-label="继续剧情">
+        <span id="interludeMark"></span>
+        <strong id="interludeTitle"></strong>
+        <i aria-hidden="true"></i>
+        <small id="interludePlace"></small>
+        <span id="interludeText"></span>
+        <small class="interlude-resume" id="interludeResume" hidden></small>
+      </button>
+    </section>
+    <div class="scene-curtain" id="sceneCurtain" aria-hidden="true">
+      <p id="sceneCurtainKicker">本难完成</p>
+      <strong id="sceneCurtainTitle"></strong>
+      <span id="sceneCurtainHint">继续西行</span>
+    </div>
+
+    <section class="dialogue-deck" id="dialogueDeck" aria-live="polite">
+      <div class="dialogue-inner" tabindex="0" role="button" aria-label="点击继续" aria-keyshortcuts="Enter Space">
+        <div class="speaker-badge"><span id="speakerSeal">记</span><div><b id="speakerName">旅途见闻</b><small id="speakerRole">花果山</small></div></div>
+        <div class="story-copy"><div class="story-ornament"><span id="trialLabel">第 01 / 81 难</span><i></i><span id="locationName">东胜神洲 · 花果山</span><i></i><span id="lineType">任务</span></div><h1 id="dialogueTitle">仙石崩裂</h1><p id="dialogueText">花果山仙石受日精月华，石卵迸裂，石猴出世。</p></div>
+        <div class="choice-timer" id="choiceTimer" hidden aria-live="off"><span>回应时限</span><b id="choiceTimerText">10.0 秒</b><i><em id="choiceTimerFill"></em></i><small>超时将保持沉默</small></div>
+        <div class="choice-list" id="choiceList" aria-label="选择行动" hidden></div>
+        <div class="continue-mark" aria-hidden="true"><i></i><i></i><i></i></div>
+      </div>
+    </section>
+
+    <aside class="pause-menu" id="pauseMenu" aria-hidden="true"><div class="pause-backdrop"></div><section class="pause-panel" role="dialog" aria-modal="true" aria-labelledby="pauseTitle"><button class="close-menu" id="closeMenu" type="button" aria-label="关闭">×</button><p>西行拾卷</p><h2 id="pauseTitle">暂停</h2><div class="pause-rule"></div><p class="pause-shortcuts" aria-label="键盘快捷键"><span><kbd>Enter</kbd>继续</span><span><kbd>1–4</kbd>选择</span><span><kbd>A</kbd>自动</span><span><kbd>S</kbd>略过</span><span><kbd>Esc</kbd>菜单</span></p><div class="pause-checkpoint" id="pauseCheckpoint"><span>当前旅痕</span><strong id="checkpointTitle">第 01 难 · 仙石崩裂</strong><small id="checkpointState">旅痕已自动封存</small></div><section class="journey-compass" aria-labelledby="compassTitle"><p id="compassTitle">取经志罗盘</p><div class="route-compass" id="routeCompass" aria-label="四条路线当前倾向"><i class="compass-ring" aria-hidden="true"></i><i class="compass-needle" aria-hidden="true"></i><span class="route-point route-defiance" data-route="defiance"><b>反骨</b><small id="defianceRouteScore">0</small></span><span class="route-point route-bond" data-route="bond"><b>同心</b><small id="bondRouteScore">0</small></span><span class="route-point route-discipline" data-route="discipline"><b>守戒</b><small id="disciplineRouteScore">0</small></span><span class="route-point route-insight" data-route="insight"><b>照见</b><small id="insightRouteScore">0</small></span><strong id="dominantRouteLabel">尚未定向</strong></div><div class="journey-spirit" aria-label="勇决、慈念与悟见数值"><span><b id="resolveCount">0</b><small>勇决</small></span><span><b id="mercyCount">0</b><small>慈念</small></span><span><b id="insightCount">0</b><small>悟见</small></span></div></section><button class="menu-action" id="journeyBtn" type="button"><span>进度</span><small id="journeyProgress">已至第 01 难</small></button><button class="menu-action" id="journalBtn" type="button"><span>旅痕</span><small id="journalCount">0 条选择</small></button><button class="menu-action" id="relationsBtn" type="button"><span>因缘簿</span><small id="relationCount">0 位相识</small></button><div class="audio-mixer pause-audio" aria-label="音量"><label class="audio-slider"><span>背景乐</span><input id="pauseMusicVolume" type="range" min="0" max="100" value="20" /><b id="pauseMusicVolumeValue">20</b></label><label class="audio-slider"><span>音效</span><input id="pauseSfxVolume" type="range" min="0" max="100" value="20" /><b id="pauseSfxVolumeValue">20</b></label></div><button class="menu-action" id="soundBtn" type="button" aria-pressed="true"><span>音律</span><small id="soundState">已开启</small></button><button class="menu-action" id="mainMenuBtn" type="button"><span>开始菜单</span><small>进度已保存，可从对话处继续</small></button><button class="menu-action danger" id="resetBtn" type="button"><span>重启旅程</span><small>清空当前旅程</small></button></section></aside>
+    <div class="overlay-panel" id="overlayPanel" aria-hidden="true"><div class="overlay-backdrop"></div><section class="overlay-content" role="dialog" aria-modal="true" aria-labelledby="overlayTitle"><button class="close-menu" id="closeOverlay" type="button" aria-label="关闭">×</button><div id="overlayBody"></div></section></div>
+    <div class="skip-summary" id="skipSummary" aria-hidden="true"><div class="skip-summary-backdrop"></div><section class="skip-summary-panel" role="dialog" aria-modal="true" aria-labelledby="skipSummaryTitle" aria-describedby="skipSummaryText"><p>略过本段</p><h2 id="skipSummaryTitle">剧情提要</h2><div class="skip-summary-rule"></div><p id="skipSummaryText"></p><div class="skip-summary-actions"><button id="cancelSkip" type="button">返回当前剧情</button><button class="primary" id="confirmSkip" type="button">直达选择</button></div></section></div>
+    <div class="mini-game" id="miniGame" aria-hidden="true"><div class="mini-game-backdrop"></div><section class="mini-game-panel" role="dialog" aria-modal="true" aria-labelledby="miniGameTitle" aria-describedby="miniGameIntro miniGamePrompt"><div class="mini-game-heading"><div><p id="miniGameProgress">互动 · 1 / 3</p><h2 id="miniGameTitle">穿瀑试胆</h2></div><button id="skipMiniGame" type="button" aria-label="略过互动">略过</button></div><p class="mini-game-intro" id="miniGameIntro"></p><div class="mini-game-rule"></div><p class="mini-game-prompt" id="miniGamePrompt"></p><div class="mini-game-playfield" id="miniGamePlayfield" hidden></div><div class="mini-game-options" id="miniGameOptions"></div><p class="mini-game-result" id="miniGameResult" aria-live="polite"></p></section></div>
+    <div class="confirmation-modal" id="confirmationModal" aria-hidden="true"><div class="confirmation-backdrop"></div><section class="confirmation-panel" role="alertdialog" aria-modal="true" aria-labelledby="confirmationTitle" aria-describedby="confirmationText"><p id="confirmationKicker">确认操作</p><h2 id="confirmationTitle">要继续吗？</h2><div class="confirmation-rule"></div><p id="confirmationText"></p><div class="confirmation-actions"><button id="cancelConfirmation" type="button">暂不改变</button><button class="danger" id="confirmAction" type="button">确认</button></div></section></div>
+    <div class="journey-archive" id="journeyArchive" aria-hidden="true"><div class="archive-backdrop"></div><section class="archive-panel" role="dialog" aria-modal="true" aria-labelledby="archiveTitle"><header><div><p>完整通关记录</p><h2 id="archiveTitle">八十一难经历长卷</h2></div><button id="closeArchive" type="button" aria-label="关闭经历长卷">×</button></header><div class="archive-summary" id="archiveSummary"></div><div class="archive-scroll" id="archiveScroll"></div></section></div>
+    <div class="ending-modal" id="endingModal" aria-hidden="true"><section class="ending-card" role="dialog" aria-modal="true" aria-labelledby="endingTitle" aria-describedby="endingText"><div class="ending-hero"><img id="endingHero" src="assets/backgrounds/lingshan-stage.png" alt="西行结局画面" /><span id="endingHeroCaption">你的西行抵达终点</span></div><div class="ending-copy"><p>西行拾卷 · 终章</p><div class="ending-seal" id="endingSeal">悟</div><h2 id="endingTitle">无字真经</h2><div class="ending-rule"></div><div id="endingText"></div><div class="ending-stats" id="endingStats"></div><div class="ending-actions"><button class="primary" id="endingArchive" type="button">展开八十一难长卷</button><button id="endingReview" type="button">自由回看</button><button id="endingMenu" type="button">返回开始菜单</button><button class="danger" id="restartJourney" type="button">开启新旅程</button></div></div></section></div>
+  </main>
+  <script src="canonical-story.js?v=27"></script>
+  <script src="story-branches.js?v=29"></script>
+  <script>
+    try {
+      const saved = JSON.parse(localStorage.getItem('xixing-stage-save') || '{}');
+      if (saved && typeof saved === 'object' && saved.auto) {
+        saved.auto = false;
+        localStorage.setItem('xixing-stage-save', JSON.stringify(saved));
+      }
+    } catch (error) {}
+  </script>
+  <script>
+    window.SHADOWPLAY_VOICE_CONFIG = {
+      endpoint: '/api/tts',
+      castUrl: 'voice-cast.json',
+      bakedUrl: 'assets/voice/manifest.json?v=38',
+      ...(window.SHADOWPLAY_VOICE_CONFIG || {})
+    };
+  </script>
+  <script src="voice-adapter.js?v=28"></script>
+  <script src="shadowplay-minigames.js?v=23"></script>
+  <script src="shadowplay-runtime.js?v=37"></script>
+</body>
+</html>

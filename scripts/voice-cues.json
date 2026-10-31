@@ -1,0 +1,4712 @@
+[
+  {
+    "id": "ceef09c4e1c26ee8",
+    "key": "[\"东胜神洲傲来国花果山，仙石受日精月华，忽然迸裂。石卵中跳出一只石猴，四面张望。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "东胜神洲傲来国花果山，仙石受日精月华，忽然迸裂。石卵中跳出一只石猴，四面张望。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0a661b9df5c8e3ed",
+    "key": "[\"我不知从何处来，只见山、水、风都在。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "我不知从何处来，只见山、水、风都在。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4cf03e4e13c22359",
+    "key": "[\"石头里蹦出个活的！你们看，它还会眨眼。\",\"群猴\",\"zh-CN-YunxiaNeural\",\"+13%\",\"+9Hz\",\"+0%\"]",
+    "text": "石头里蹦出个活的！你们看，它还会眨眼。",
+    "character": "群猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+13%",
+    "pitch": "+9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7f7dcfded311f8d5",
+    "key": "[\"你们围着我，是怕我，还是认我？\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "你们围着我，是怕我，还是认我？",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "deb3e61abc118d16",
+    "key": "[\"先别过来。你从哪儿来的？\",\"群猴\",\"zh-CN-YunxiaNeural\",\"+13%\",\"+9Hz\",\"+0%\"]",
+    "text": "先别过来。你从哪儿来的？",
+    "character": "群猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+13%",
+    "pitch": "+9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a690b9e24a4cacd0",
+    "key": "[\"我从这山里来。山在，我就在。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "我从这山里来。山在，我就在。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "0ebaa4048dda96f7",
+    "key": "[\"群猴围住这只新生的石猴。花果山的故事，从一声啼叫开始。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "群猴围住这只新生的石猴。花果山的故事，从一声啼叫开始。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "931a8ac738762a8c",
+    "key": "[\"瀑布如白练垂在山前，群猴不敢近前。石猴立在水边，听那水声里像有空处。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "瀑布如白练垂在山前，群猴不敢近前。石猴立在水边，听那水声里像有空处。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "59d6825769e77885",
+    "key": "[\"里面有桥、有石房、有家当，正可让大家安身。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "里面有桥、有石房、有家当，正可让大家安身。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c770d6717faf102d",
+    "key": "[\"谁敢钻进去，我们就拜谁为王。你真要跳？\",\"群猴\",\"zh-CN-YunxiaNeural\",\"+13%\",\"+9Hz\",\"+0%\"]",
+    "text": "谁敢钻进去，我们就拜谁为王。你真要跳？",
+    "character": "群猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+13%",
+    "pitch": "+9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5faaa1bdea597d78",
+    "key": "[\"约定是你们立的。我跳，你们就得认。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "约定是你们立的。我跳，你们就得认。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f5d8e4457ba121d5",
+    "key": "[\"你要是回不来，这瀑布可不管谁是大王。\",\"群猴\",\"zh-CN-YunxiaNeural\",\"+13%\",\"+9Hz\",\"+0%\"]",
+    "text": "你要是回不来，这瀑布可不管谁是大王。",
+    "character": "群猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+13%",
+    "pitch": "+9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "d9b9c4ff1a27d73a",
+    "key": "[\"回得来。回来便带你们进去。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "回得来。回来便带你们进去。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "218b9f034e945e6a",
+    "key": "[\"依照约定，群猴拜石猴为千岁大王；水帘洞自此有了主人。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "依照约定，群猴拜石猴为千岁大王；水帘洞自此有了主人。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "3d9fa420242942a8",
+    "key": "[\"花果山群猴设宴庆贺。欢笑正盛，美猴王却忽然把酒盏放下。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "花果山群猴设宴庆贺。欢笑正盛，美猴王却忽然把酒盏放下。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "3a12b4f9f993c76a",
+    "key": "[\"若不能跳出轮回，做这山中大王又能快活几年。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "若不能跳出轮回，做这山中大王又能快活几年。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5406b813f7362e57",
+    "key": "[\"大王今日怎么不喝了？山里有果有水，还缺什么？\",\"群猴\",\"zh-CN-YunxiaNeural\",\"+13%\",\"+9Hz\",\"+0%\"]",
+    "text": "大王今日怎么不喝了？山里有果有水，还缺什么？",
+    "character": "群猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+13%",
+    "pitch": "+9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f74a765c3163b5f5",
+    "key": "[\"缺一样。今日快活，明日也能死。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "缺一样。今日快活，明日也能死。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "716b4c2acfef7f48",
+    "key": "[\"那……你要去哪里？\",\"群猴\",\"zh-CN-YunxiaNeural\",\"+13%\",\"+9Hz\",\"+0%\"]",
+    "text": "那……你要去哪里？",
+    "character": "群猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+13%",
+    "pitch": "+9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4e35becdb7eb421f",
+    "key": "[\"出海。去问有没有人能教我不老。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "出海。去问有没有人能教我不老。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "62375ca3f4a301ff",
+    "key": "[\"他扎木筏、别群猴，独自漂向茫茫大海，去寻不死之门。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "他扎木筏、别群猴，独自漂向茫茫大海，去寻不死之门。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "53fd9907f425a8e5",
+    "key": "[\"石猴在南赡部洲辗转多年，终于到灵台方寸山。樵夫唱出的歌，引他走到斜月三星洞前。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "石猴在南赡部洲辗转多年，终于到灵台方寸山。樵夫唱出的歌，引他走到斜月三星洞前。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "bb803297b51aff72",
+    "key": "[\"弟子无姓无名，只愿学个长生的本事。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "弟子无姓无名，只愿学个长生的本事。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5960f812d35853bd",
+    "key": "[\"心诚可教。先入洞洒扫听讲，再问长生从何处起。\",\"菩提\",\"zh-CN-YunyangNeural\",\"-18%\",\"-17Hz\",\"+0%\"]",
+    "text": "心诚可教。先入洞洒扫听讲，再问长生从何处起。",
+    "character": "菩提",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-18%",
+    "pitch": "-17Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "38973df6c342808f",
+    "key": "[\"弟子漂洋过来，不为别的官职，只为这一问。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "弟子漂洋过来，不为别的官职，只为这一问。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f8210eb994c8c707",
+    "key": "[\"问可以。答不答，要看你跪得住几天。\",\"菩提\",\"zh-CN-YunyangNeural\",\"-18%\",\"-17Hz\",\"+0%\"]",
+    "text": "问可以。答不答，要看你跪得住几天。",
+    "character": "菩提",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-18%",
+    "pitch": "-17Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "bc2f48592977216c",
+    "key": "[\"跪得住。弟子不怕慢，只怕无门。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "跪得住。弟子不怕慢，只怕无门。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "fe8e84ac9eb6388c",
+    "key": "[\"菩提祖师看他心诚，收作门徒；石猴自此在洞中洒扫、听讲。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "菩提祖师看他心诚，收作门徒；石猴自此在洞中洒扫、听讲。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "36f11291510aa798",
+    "key": "[\"祖师问他原来姓氏，石猴只说自己是花果山石中所生。祖师便从猢狲的狲字上取意。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "祖师问他原来姓氏，石猴只说自己是花果山石中所生。祖师便从猢狲的狲字上取意。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "237757434a7eccf4",
+    "key": "[\"从今以后，弟子便叫孙悟空。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "从今以后，弟子便叫孙悟空。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a0ede7ac0e374d4f",
+    "key": "[\"悟空悟空，先空去来处的野性，再谈变化与筋斗。\",\"菩提\",\"zh-CN-YunyangNeural\",\"-18%\",\"-17Hz\",\"+0%\"]",
+    "text": "悟空悟空，先空去来处的野性，再谈变化与筋斗。",
+    "character": "菩提",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-18%",
+    "pitch": "-17Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "2def4d4cf374155f",
+    "key": "[\"悟\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "悟",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "0c5f910f45093460",
+    "key": "[\"看明白，还要空得掉。空不掉，名字也只是三个字。\",\"菩提\",\"zh-CN-YunyangNeural\",\"-18%\",\"-17Hz\",\"+0%\"]",
+    "text": "看明白，还要空得掉。空不掉，名字也只是三个字。",
+    "character": "菩提",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-18%",
+    "pitch": "-17Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "ad31205ca0f39d83",
+    "key": "[\"弟子记下了。\",\"石猴\",\"zh-CN-YunxiaNeural\",\"+12%\",\"+14Hz\",\"+0%\"]",
+    "text": "弟子记下了。",
+    "character": "石猴",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "18df0f1ed69ec639",
+    "key": "[\"一个名字落定，花果山的石猴有了可被天地记住的名号。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "一个名字落定，花果山的石猴有了可被天地记住的名号。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "8661490f1c806654",
+    "key": "[\"夜半三更，孙悟空依祖师敲头的暗示来到后门。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "夜半三更，孙悟空依祖师敲头的暗示来到后门。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "18547881fccc2923",
+    "key": "[\"弟子既得此法，便要守住师门的嘱咐，不可卖弄。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "弟子既得此法，便要守住师门的嘱咐，不可卖弄。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "89499254dac0697a",
+    "key": "[\"进来。今夜只传躲避三灾之法，不许你拿去山上夸口。\",\"菩提\",\"zh-CN-YunyangNeural\",\"-18%\",\"-17Hz\",\"+0%\"]",
+    "text": "进来。今夜只传躲避三灾之法，不许你拿去山上夸口。",
+    "character": "菩提",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-18%",
+    "pitch": "-17Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b343f0b7841dc81b",
+    "key": "[\"弟子不敢夸。只问，学会了，能否保山中孩儿们也不死？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "弟子不敢夸。只问，学会了，能否保山中孩儿们也不死？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "bb566b933bb5663b",
+    "key": "[\"能保自己，已经很难。别人的命，不是一门变化能替的。\",\"菩提\",\"zh-CN-YunyangNeural\",\"-18%\",\"-17Hz\",\"+0%\"]",
+    "text": "能保自己，已经很难。别人的命，不是一门变化能替的。",
+    "character": "菩提",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-18%",
+    "pitch": "-17Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b73384260e6cbcbb",
+    "key": "[\"弟子先把这门功夫学完。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "弟子先把这门功夫学完。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "60d0f07dc06472dd",
+    "key": "[\"孙悟空一翻便是十万八千里，法力初成，却也埋下日后惹祸的根由。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "孙悟空一翻便是十万八千里，法力初成，却也埋下日后惹祸的根由。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "d55d49c45511f69d",
+    "key": "[\"悟空归山，群猴请他寻一件趁手兵器。他分水入东海，龙宫诸兵器都不合手。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空归山，群猴请他寻一件趁手兵器。他分水入东海，龙宫诸兵器都不合手。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "04f63d759cf93804",
+    "key": "[\"若有趁手的兵器，俺也去便守得住花果山。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "若有趁手的兵器，俺也去便守得住花果山。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8df84a2d5545002c",
+    "key": "[\"大圣既来，兵器任你试。只是龙宫的规矩，也不能一件件搬空。\",\"龙王\",\"zh-CN-YunyangNeural\",\"-9%\",\"-9Hz\",\"+0%\"]",
+    "text": "大圣既来，兵器任你试。只是龙宫的规矩，也不能一件件搬空。",
+    "character": "龙王",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-9%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1cf2764fe538e52c",
+    "key": "[\"俺也去不是来搬空的。太轻的，护不住山。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "俺也去不是来搬空的。太轻的，护不住山。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "bf2250b1dd6a51e9",
+    "key": "[\"海藏里还有一根铁柱，寻常人拿不动。你若能拿，便算你的缘。\",\"龙王\",\"zh-CN-YunyangNeural\",\"-9%\",\"-9Hz\",\"+0%\"]",
+    "text": "海藏里还有一根铁柱，寻常人拿不动。你若能拿，便算你的缘。",
+    "character": "龙王",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-9%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "66ccfcc1838d722d",
+    "key": "[\"拿得动，俺也去便借。借了，花果山记东海一份情。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "拿得动，俺也去便借。借了，花果山记东海一份情。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "2c8606ef963a7682",
+    "key": "[\"海底神珍铁随他心意变作如意金箍棒；悟空披挂整齐，告别龙宫。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "海底神珍铁随他心意变作如意金箍棒；悟空披挂整齐，告别龙宫。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a3127c4a64b4ccaa",
+    "key": "[\"祖师嘱咐俺也去不可卖弄。今日只取合手兵器，不拿龙宫上下作耍。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "祖师嘱咐俺也去不可卖弄。今日只取合手兵器，不拿龙宫上下作耍。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e74d0dee60f9b974",
+    "key": "[\"离山时那阵喝彩俺也去还记得。今日进了龙宫，正好让他们看看俺的本事！\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "离山时那阵喝彩俺也去还记得。今日进了龙宫，正好让他们看看俺的本事！",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "2e8a049a33e6c4de",
+    "key": "[\"一只老猴寿尽，悟空神魂被拘到幽冥。他翻出生死簿，看见猴属的姓名都在册上。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "一只老猴寿尽，悟空神魂被拘到幽冥。他翻出生死簿，看见猴属的姓名都在册上。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "129ab41049f253e4",
+    "key": "[\"我既学了长生，花果山猴属的名册也不该留在这里。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "我既学了长生，花果山猴属的名册也不该留在这里。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e080126a97a0628c",
+    "key": "[\"寿数非本殿一人所定。你今日勾了，三界仍会来问。\",\"阎王\",\"zh-CN-YunjianNeural\",\"-15%\",\"-25Hz\",\"+0%\"]",
+    "text": "寿数非本殿一人所定。你今日勾了，三界仍会来问。",
+    "character": "阎王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-15%",
+    "pitch": "-25Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "2b2e582422cc2753",
+    "key": "[\"问便问。花果山的名字，不该写在你们的簿上。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "问便问。花果山的名字，不该写在你们的簿上。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "f3ffbb6bb4783ed7",
+    "key": "[\"你勾得了今日，勾不了明日所有的死。\",\"阎王\",\"zh-CN-YunjianNeural\",\"-15%\",\"-25Hz\",\"+0%\"]",
+    "text": "你勾得了今日，勾不了明日所有的死。",
+    "character": "阎王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-15%",
+    "pitch": "-25Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f4f77dde0309bdae",
+    "key": "[\"明日的事明日再说。今日这几页，俺也去先划掉。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "明日的事明日再说。今日这几页，俺也去先划掉。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7792a4faa993ae6f",
+    "key": "[\"朱笔划过簿页，幽冥震动；天庭与地府都开始注意到这只不肯受管束的猴王。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "朱笔划过簿页，幽冥震动；天庭与地府都开始注意到这只不肯受管束的猴王。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "cac7a46906f387d5",
+    "key": "[\"你今日这般强销，幽冥记下的就不是一页纸，是一整座花果山。\",\"阎王\",\"zh-CN-YunjianNeural\",\"-15%\",\"-25Hz\",\"+0%\"]",
+    "text": "你今日这般强销，幽冥记下的就不是一页纸，是一整座花果山。",
+    "character": "阎王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-15%",
+    "pitch": "-25Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "8a6f33cabaf942ad",
+    "key": "[\"记下便记下。花果山的名字，不该再躺在你们簿上。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "记下便记下。花果山的名字，不该再躺在你们簿上。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "6e65005e08fa4d60",
+    "key": "[\"寿数由天、由地、由幽冥互相推。你问得清，也改不了这套推诿。\",\"阎王\",\"zh-CN-YunjianNeural\",\"-15%\",\"-25Hz\",\"+0%\"]",
+    "text": "寿数由天、由地、由幽冥互相推。你问得清，也改不了这套推诿。",
+    "character": "阎王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-15%",
+    "pitch": "-25Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e447bde7a87187d9",
+    "key": "[\"推诿我也听见了。听见了，这几页还是要勾。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "推诿我也听见了。听见了，这几页还是要勾。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "29c7e582359af73e",
+    "key": "[\"你把罪名揽到自己身上，幽冥便只拿你一人来问。\",\"阎王\",\"zh-CN-YunjianNeural\",\"-15%\",\"-25Hz\",\"+0%\"]",
+    "text": "你把罪名揽到自己身上，幽冥便只拿你一人来问。",
+    "character": "阎王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-15%",
+    "pitch": "-25Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "367e069f72f4d7b1",
+    "key": "[\"拿我一人便是。群猴的名字，从今日起不在这簿上。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "拿我一人便是。群猴的名字，从今日起不在这簿上。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "ad61b3e2723ec66d",
+    "key": "[\"天庭不愿正面兴兵，太白金星来到花果山招安。悟空听说天上有官可做，随他升天。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "天庭不愿正面兴兵，太白金星来到花果山招安。悟空听说天上有官可做，随他升天。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7ce42b973d9bf0f3",
+    "key": "[\"既要招我，俺也去天上看看这官是怎样做的。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "既要招我，俺也去天上看看这官是怎样做的。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "77b5fab575f06dc4",
+    "key": "[\"大圣若肯走一遭，天庭给的是官职，也是给花果山一条不打仗的路。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "大圣若肯走一遭，天庭给的是官职，也是给花果山一条不打仗的路。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "58df2c55d4b43ad5",
+    "key": "[\"官职叫什么？管什么？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "官职叫什么？管什么？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "c224a868ee48b30f",
+    "key": "[\"到了天上便知。先随我去见玉帝。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "到了天上便知。先随我去见玉帝。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f32706c8e93d1eed",
+    "key": "[\"行。俺也去去看看，这天庭是请我，还是哄我。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "行。俺也去去看看，这天庭是请我，还是哄我。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b4640fc2e698fc35",
+    "key": "[\"玉帝封他为弼马温。悟空暂时安在御马监，尚不知这官职轻微。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "玉帝封他为弼马温。悟空暂时安在御马监，尚不知这官职轻微。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c081592f01fa5697",
+    "key": "[\"悟空在御马监养马尽心，偶然问明弼马温原是未入流的官职，才知自己受了轻慢。他弃官下界，花果山旌旗重起。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空在御马监养马尽心，偶然问明弼马温原是未入流的官职，才知自己受了轻慢。他弃官下界，花果山旌旗重起。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "74baf53b5427e0c6",
+    "key": "[\"这等末官，怎敢拿来哄我。齐天二字，须由我自己立在旗上。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这等末官，怎敢拿来哄我。齐天二字，须由我自己立在旗上。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "52ef824a51e8fda7",
+    "key": "[\"大圣既已回山，天庭仍愿再议官职。你若竖旗，花果山先要挨第一刀。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "大圣既已回山，天庭仍愿再议官职。你若竖旗，花果山先要挨第一刀。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "9a2fdf8227af192e",
+    "key": "[\"再议什么？弼马温三个字，是拿来哄小孩的。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "再议什么？弼马温三个字，是拿来哄小孩的。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b4088eadb8ff7389",
+    "key": "[\"名号轻，是天庭的错。可刀兵一起来，受苦的是洞里那些猴子。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "名号轻，是天庭的错。可刀兵一起来，受苦的是洞里那些猴子。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "9327fa8b7539588d",
+    "key": "[\"那便让他们来问这面旗。齐天二字，不用你们赏。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "那便让他们来问这面旗。齐天二字，不用你们赏。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "64ed8848f4448132",
+    "key": "[\"悟空披甲登台，自立齐天大圣。山中群猴欢呼，天上的官册却从此多了一笔不肯归顺的名字。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空披甲登台，自立齐天大圣。山中群猴欢呼，天上的官册却从此多了一笔不肯归顺的名字。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "e26de502977ffd8c",
+    "key": "[\"龙宫与幽冥的奏表都已上达。大圣这次下界，天庭不会只当作一场误会。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "龙宫与幽冥的奏表都已上达。大圣这次下界，天庭不会只当作一场误会。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "0633e84134750c9b",
+    "key": "[\"东海虽来奏事，却也承认你入宫时尚知礼数。此间仍有转圜。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "东海虽来奏事，却也承认你入宫时尚知礼数。此间仍有转圜。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "d3e9d59d0e74d322",
+    "key": "[\"太白金星再度来访，天庭口头承认齐天大圣，却将悟空安置在齐天大圣府中闲住。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "太白金星再度来访，天庭口头承认齐天大圣，却将悟空安置在齐天大圣府中闲住。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "fe2ffa0980d07fac",
+    "key": "[\"既封我齐天，就不必再拿小事来拘我。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "既封我齐天，就不必再拿小事来拘我。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8a6348888c73b562",
+    "key": "[\"名号已经入册。府里先住着，天庭的事，不必件件都问到你。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "名号已经入册。府里先住着，天庭的事，不必件件都问到你。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1c2a4ad28cd2b581",
+    "key": "[\"不授实职，这齐天两个字，是真认，还是先把我哄住？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "不授实职，这齐天两个字，是真认，还是先把我哄住？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7f167a1c45f3833f",
+    "key": "[\"先安住，再看。玉帝不愿开战，也还没想好把你放在哪一格。\",\"太白\",\"zh-CN-YunyangNeural\",\"-5%\",\"+3Hz\",\"+0%\"]",
+    "text": "先安住，再看。玉帝不愿开战，也还没想好把你放在哪一格。",
+    "character": "太白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-5%",
+    "pitch": "+3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "317429662f9bc9aa",
+    "key": "[\"那俺也去便先看看，这空府能空到几时。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "那俺也去便先看看，这空府能空到几时。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7fadd57ad407c8de",
+    "key": "[\"悟空暂且留在天宫。空名之下，天庭与猴王的裂缝仍在扩大。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空暂且留在天宫。空名之下，天庭与猴王的裂缝仍在扩大。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5a601efc221f7075",
+    "key": "[\"蟠桃园内仙桃累累。悟空被派来看守园子，才知三千年、六千年、九千年的桃各有不同。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "蟠桃园内仙桃累累。悟空被派来看守园子，才知三千年、六千年、九千年的桃各有不同。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c59d87017b989887",
+    "key": "[\"守园可以，园中规矩俺也去也要看个明白。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "守园可以，园中规矩俺也去也要看个明白。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "69b34dcad40ede57",
+    "key": "[\"大圣既闲住无事，便替我看园。三千年、六千年、九千年的桃，各有各的时辰。\",\"王母\",\"zh-CN-XiaoxiaoNeural\",\"-10%\",\"-11Hz\",\"+0%\"]",
+    "text": "大圣既闲住无事，便替我看园。三千年、六千年、九千年的桃，各有各的时辰。",
+    "character": "王母",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-10%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "cde9969f52748182",
+    "key": "[\"看园可以。宴席请不请我，也该先说清楚。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "看园可以。宴席请不请我，也该先说清楚。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "06be792a3ff5849c",
+    "key": "[\"蟠桃会自有名册。你守园，不是入席。\",\"王母\",\"zh-CN-XiaoxiaoNeural\",\"-10%\",\"-11Hz\",\"+0%\"]",
+    "text": "蟠桃会自有名册。你守园，不是入席。",
+    "character": "王母",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-10%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "530b4fc691909c71",
+    "key": "[\"名册上没有我，这些桃倒都在我眼皮底下。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "名册上没有我，这些桃倒都在我眼皮底下。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "25b99a5b7ccdc6c7",
+    "key": "[\"熟桃压低枝头，悟空抬眼望去，心中已起了不安分的念头。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "熟桃压低枝头，悟空抬眼望去，心中已起了不安分的念头。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "520f30757947f72c",
+    "key": "[\"悟空探知王母设蟠桃会，却没有自己的席位。他在园中偷食熟桃，又循酒香来到瑶池。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空探知王母设蟠桃会，却没有自己的席位。他在园中偷食熟桃，又循酒香来到瑶池。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "d6c771678b7752bc",
+    "key": "[\"既不请我，这满园桃酒也不必替谁留着。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "既不请我，这满园桃酒也不必替谁留着。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "02ea9006fe2e6d13",
+    "key": "[\"瑶池不留无帖之客。大圣若不服，便把话说明，不必先动园中的桃。\",\"王母\",\"zh-CN-XiaoxiaoNeural\",\"-10%\",\"-11Hz\",\"+0%\"]",
+    "text": "瑶池不留无帖之客。大圣若不服，便把话说明，不必先动园中的桃。",
+    "character": "王母",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-10%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a5a90b43ad632a4f",
+    "key": "[\"话都说到这份上了。不请我，还要我替你们看桃？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "话都说到这份上了。不请我，还要我替你们看桃？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "ead494a90a419e24",
+    "key": "[\"看园是差事，入席是礼数。两件事，不能混着闹。\",\"王母\",\"zh-CN-XiaoxiaoNeural\",\"-10%\",\"-11Hz\",\"+0%\"]",
+    "text": "看园是差事，入席是礼数。两件事，不能混着闹。",
+    "character": "王母",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-10%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "833c1066fdf89d4c",
+    "key": "[\"那俺也去便先尝尝，这礼数到底有多重。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "那俺也去便先尝尝，这礼数到底有多重。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "987936e56b95bc1b",
+    "key": "[\"酒意上涌，悟空踏云乱走；一场大闹天宫已无法收束。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "酒意上涌，悟空踏云乱走；一场大闹天宫已无法收束。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a51b25015096595e",
+    "key": "[\"瑶池酒后，悟空闯进兜率宫。炉旁五壶金丹未收，他将丹丸当作寻常豆子吞下。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "瑶池酒后，悟空闯进兜率宫。炉旁五壶金丹未收，他将丹丸当作寻常豆子吞下。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "422b633f97b66611",
+    "key": "[\"天宫既把我当外人，这些丹便由我替它们尝尝。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "天宫既把我当外人，这些丹便由我替它们尝尝。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "0d5a91c0fb380656",
+    "key": "[\"五葫芦金丹不是豆子。你今日吞下，明日三界都要来问这一炉的账。\",\"老君\",\"zh-CN-YunyangNeural\",\"-17%\",\"-15Hz\",\"+0%\"]",
+    "text": "五葫芦金丹不是豆子。你今日吞下，明日三界都要来问这一炉的账。",
+    "character": "老君",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-17%",
+    "pitch": "-15Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "97f625b8e7e2f63a",
+    "key": "[\"问便问。天宫把俺也去当外人，这些丹何必替谁留着。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "问便问。天宫把俺也去当外人，这些丹何必替谁留着。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "0dfe8bb2af45cdb2",
+    "key": "[\"丹可入腹，盗丹之责却不会随酒意散掉。\",\"老君\",\"zh-CN-YunyangNeural\",\"-17%\",\"-15Hz\",\"+0%\"]",
+    "text": "丹可入腹，盗丹之责却不会随酒意散掉。",
+    "character": "老君",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-17%",
+    "pitch": "-15Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7f533340121284d9",
+    "key": "[\"那便记下。俺也去先回花果山，看谁敢来讨。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "那便记下。俺也去先回花果山，看谁敢来讨。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "5888eb600cf3371f",
+    "key": "[\"悟空回花果山，体内金丹化开；天庭终于决定兴兵。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空回花果山，体内金丹化开；天庭终于决定兴兵。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5f2791a005fd8c65",
+    "key": "[\"天兵列阵压向花果山。悟空持金箍棒立在山门前，哪吒三太子先来挑战。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "天兵列阵压向花果山。悟空持金箍棒立在山门前，哪吒三太子先来挑战。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "100dc37c77a78900",
+    "key": "[\"花果山是我的家门，谁要进来，先问过这根棒。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "花果山是我的家门，谁要进来，先问过这根棒。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "4156d03e511ab605",
+    "key": "[\"你守家门，我奉军令。今日便在兵器上各尽其责。\",\"哪吒\",\"zh-CN-YunxiaNeural\",\"+10%\",\"+16Hz\",\"+0%\"]",
+    "text": "你守家门，我奉军令。今日便在兵器上各尽其责。",
+    "character": "哪吒",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+10%",
+    "pitch": "+16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "bed33c8ad30fafb8",
+    "key": "[\"军令可以带，洞里那些猴子不能拿来垫刀。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "军令可以带，洞里那些猴子不能拿来垫刀。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8c8fffd85b91f4cb",
+    "key": "[\"你若只护山后，我便不把战火往水帘洞里引。\",\"哪吒\",\"zh-CN-YunxiaNeural\",\"+10%\",\"+16Hz\",\"+0%\"]",
+    "text": "你若只护山后，我便不把战火往水帘洞里引。",
+    "character": "哪吒",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+10%",
+    "pitch": "+16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "cb0f0aad1f25ff22",
+    "key": "[\"阵既列开，便收缩云旗，不许给他第二道缺口！\",\"李靖\",\"zh-CN-YunjianNeural\",\"-9%\",\"-14Hz\",\"+0%\"]",
+    "text": "阵既列开，便收缩云旗，不许给他第二道缺口！",
+    "character": "李靖",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-9%",
+    "pitch": "-14Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "ce1c1a5f2242d3fa",
+    "key": "[\"缺口有没有，先问问这根棒答不答应。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "缺口有没有，先问问这根棒答不答应。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "4353cf5fddfa929b",
+    "key": "[\"战鼓未歇，天兵一时不能取胜；悟空的名号震动三界。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "战鼓未歇，天兵一时不能取胜；悟空的名号震动三界。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "fa85b4301e651e66",
+    "key": "[\"空名俺也去看过了。如今兵都压到山门，这口气再也不忍！\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "空名俺也去看过了。如今兵都压到山门，这口气再也不忍！",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b42d864bd67c2660",
+    "key": "[\"你把蟠桃分给守园仙吏，此事天庭上下议论不休。但今日阵前，仍要以兵器说话。\",\"哪吒\",\"zh-CN-YunxiaNeural\",\"+10%\",\"+16Hz\",\"+0%\"]",
+    "text": "你把蟠桃分给守园仙吏，此事天庭上下议论不休。但今日阵前，仍要以兵器说话。",
+    "character": "哪吒",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+10%",
+    "pitch": "+16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "eb8879e6b6c728b4",
+    "key": "[\"守园时你分得清熟桃、青桃与天册，今日也该分清来将与身后群猴，不要只顾追阵。\",\"哪吒\",\"zh-CN-YunxiaNeural\",\"+10%\",\"+16Hz\",\"+0%\"]",
+    "text": "守园时你分得清熟桃、青桃与天册，今日也该分清来将与身后群猴，不要只顾追阵。",
+    "character": "哪吒",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+10%",
+    "pitch": "+16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "04eaafb1ec2c5fa5",
+    "key": "[\"哪吒，你这三头六臂刚才那几招，还没挡住俺也去这根棒。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "哪吒，你这三头六臂刚才那几招，还没挡住俺也去这根棒。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "a0c698d5567740e0",
+    "key": "[\"齐天大圣果然不是空名。可李靖的天罗地网，下一阵不会再给你对打的空档。\",\"哪吒\",\"zh-CN-YunxiaNeural\",\"+10%\",\"+16Hz\",\"+0%\"]",
+    "text": "齐天大圣果然不是空名。可李靖的天罗地网，下一阵不会再给你对打的空档。",
+    "character": "哪吒",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+10%",
+    "pitch": "+16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "fed2c504786c72b8",
+    "key": "[\"天网便天网。花果山还在，俺也去便还在。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "天网便天网。花果山还在，俺也去便还在。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7e31a5220bba4674",
+    "key": "[\"二郎显圣真君来到花果山，与悟空各施七十二变，斗到山林、江海与天际。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "二郎显圣真君来到花果山，与悟空各施七十二变，斗到山林、江海与天际。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "3e52e48d04bbca33",
+    "key": "[\"他会变，我也会变；胜负未定，谁也别先说大话。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "他会变，我也会变；胜负未定，谁也别先说大话。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "60676dbdec8889ec",
+    "key": "[\"七十二变不只比形，还要看谁先忘了自己为何而战。\",\"二郎\",\"zh-CN-YunxiNeural\",\"-1%\",\"-5Hz\",\"+0%\"]",
+    "text": "七十二变不只比形，还要看谁先忘了自己为何而战。",
+    "character": "二郎",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-1%",
+    "pitch": "-5Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e9d1bd8db04d638f",
+    "key": "[\"俺也去为护山。你呢？为天庭那一张军令？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "俺也去为护山。你呢？为天庭那一张军令？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "bb623383f70d0af2",
+    "key": "[\"你引我离山，是要护住洞中群猴。这一变，我看明白了。\",\"二郎\",\"zh-CN-YunxiNeural\",\"-1%\",\"-5Hz\",\"+0%\"]",
+    "text": "你引我离山，是要护住洞中群猴。这一变，我看明白了。",
+    "character": "二郎",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-1%",
+    "pitch": "-5Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "34868ddb2bbfce5c",
+    "key": "[\"看明白也没用。你打不过，便回去复命。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "看明白也没用。你打不过，便回去复命。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "4ca3cec02327404f",
+    "key": "[\"激战中金刚琢从云端落下，悟空被击中，终于被天兵擒住。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "激战中金刚琢从云端落下，悟空被击中，终于被天兵擒住。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "65d6c7b2e22bf1b0",
+    "key": "[\"方才你在山门前连截数阵，不只会凭蛮力。如今再以变化分个高下。\",\"二郎\",\"zh-CN-YunxiNeural\",\"-1%\",\"-5Hz\",\"+0%\"]",
+    "text": "方才你在山门前连截数阵，不只会凭蛮力。如今再以变化分个高下。",
+    "character": "二郎",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-1%",
+    "pitch": "-5Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b01529b3b04b3964",
+    "key": "[\"你变，俺也去也变。刚才那几手，谁也没压住谁。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "你变，俺也去也变。刚才那几手，谁也没压住谁。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "efd4ff595b946c5a",
+    "key": "[\"七十二变比的不只是形。你护山的心思，我看明白了。\",\"二郎\",\"zh-CN-YunxiNeural\",\"-1%\",\"-5Hz\",\"+0%\"]",
+    "text": "七十二变比的不只是形。你护山的心思，我看明白了。",
+    "character": "二郎",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-1%",
+    "pitch": "-5Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "61f5a367e8b8eb69",
+    "key": "[\"看明白也没用。下一手，还是这根棒。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "看明白也没用。下一手，还是这根棒。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "552a43beb739a689",
+    "key": "[\"你把战火引向自己，这山后的群猴，我便暂且不入。军令还在，下一阵仍要见你。\",\"二郎\",\"zh-CN-YunxiNeural\",\"-1%\",\"-5Hz\",\"+0%\"]",
+    "text": "你把战火引向自己，这山后的群猴，我便暂且不入。军令还在，下一阵仍要见你。",
+    "character": "二郎",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-1%",
+    "pitch": "-5Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "dd1a81405cd5bfba",
+    "key": "[\"护住就够。你要追，俺也去陪你跑到天边。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "护住就够。你要追，俺也去陪你跑到天边。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "5a1dff176602bd85",
+    "key": "[\"太上老君将悟空投入八卦炉。炉火烧了四十九日，他躲在巽位，反炼出火眼金睛。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "太上老君将悟空投入八卦炉。炉火烧了四十九日，他躲在巽位，反炼出火眼金睛。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "036fc74835aac18c",
+    "key": "[\"这炉火烧不掉我，倒叫我看清了许多遮人的烟。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这炉火烧不掉我，倒叫我看清了许多遮人的烟。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "012bc7a72044c663",
+    "key": "[\"你既记得巽位，便看四十九日后还能不能记得今日的狂言。\",\"老君\",\"zh-CN-YunyangNeural\",\"-17%\",\"-15Hz\",\"+0%\"]",
+    "text": "你既记得巽位，便看四十九日后还能不能记得今日的狂言。",
+    "character": "老君",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-17%",
+    "pitch": "-15Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "3b15af552e48dcef",
+    "key": "[\"狂言不狂。这炉烧不掉俺也去，倒把许多遮人的烟烧薄了。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "狂言不狂。这炉烧不掉俺也去，倒把许多遮人的烟烧薄了。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "479e2250b4abc985",
+    "key": "[\"火候够了，未必就能破炉。你且在里面再炼几日。\",\"老君\",\"zh-CN-YunyangNeural\",\"-17%\",\"-15Hz\",\"+0%\"]",
+    "text": "火候够了，未必就能破炉。你且在里面再炼几日。",
+    "character": "老君",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-17%",
+    "pitch": "-15Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c8f446f11759b7bd",
+    "key": "[\"够了。炉门一开，俺也去便出去问个明白。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "够了。炉门一开，俺也去便出去问个明白。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e1d0cf77ab615252",
+    "key": "[\"炉门一开，悟空提棒再闹天宫。众神无计，只得请如来出手。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "炉门一开，悟空提棒再闹天宫。众神无计，只得请如来出手。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c9bc069481dbeb49",
+    "key": "[\"如来与悟空赌一个筋斗云。悟空自以为翻出佛掌，回头才知仍在五指之间。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "如来与悟空赌一个筋斗云。悟空自以为翻出佛掌，回头才知仍在五指之间。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "1a1df797efc75211",
+    "key": "[\"若这山真压得住我，也压不住我心里不服。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "若这山真压得住我，也压不住我心里不服。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8a7acb4a77f801b0",
+    "key": "[\"外相可以翻出天边，承担过的因果却翻不出这只掌。\",\"如来\",\"zh-CN-YunjianNeural\",\"-21%\",\"-23Hz\",\"+0%\"]",
+    "text": "外相可以翻出天边，承担过的因果却翻不出这只掌。",
+    "character": "如来",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-21%",
+    "pitch": "-23Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c2b9d0d8aec5993a",
+    "key": "[\"赌便赌。俺也去翻出去，你便认输。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "赌便赌。俺也去翻出去，你便认输。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b750df91a3cd3379",
+    "key": "[\"你先翻。翻到何处，回头再看。\",\"如来\",\"zh-CN-YunjianNeural\",\"-21%\",\"-23Hz\",\"+0%\"]",
+    "text": "你先翻。翻到何处，回头再看。",
+    "character": "如来",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-21%",
+    "pitch": "-23Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b8345d9f8c33ca6a",
+    "key": "[\"俺也去已经翻过了。这山要压，便压。不服的那一句，俺也去还留着。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "俺也去已经翻过了。这山要压，便压。不服的那一句，俺也去还留着。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "35dc50db8ba2606c",
+    "key": "[\"五行山落下，六字真言贴在峰顶。齐天大圣被困山下，等待五百年后的取经人。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "五行山落下，六字真言贴在峰顶。齐天大圣被困山下，等待五百年后的取经人。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "338d423a5dfc9598",
+    "key": "[\"五行山下，春去秋来五百年。悟空只能露出头和双手，山神按时送来铁丸铜汁。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "五行山下，春去秋来五百年。悟空只能露出头和双手，山神按时送来铁丸铜汁。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "8a2ef0cc06020595",
+    "key": "[\"观音既说会有取经人，我便等到他来。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "观音既说会有取经人，我便等到他来。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b3397bbee47e7685",
+    "key": "[\"铁丸铜汁年年来，俺也去还在。取经人若真来，便从这石缝里把俺也去叫出去。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "铁丸铜汁年年来，俺也去还在。取经人若真来，便从这石缝里把俺也去叫出去。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "81063d7f1805ada1",
+    "key": "[\"风雨洗过山石，五行山不动；被压住的心猿也还没有真正归正。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "风雨洗过山石，五行山不动；被压住的心猿也还没有真正归正。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "2c9bc8233796554b",
+    "key": "[\"灵山佛众列坐。如来见东土只知受用，不识真经，命观音去寻一个取经人。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "灵山佛众列坐。如来见东土只知受用，不识真经，命观音去寻一个取经人。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b43bbcff99815405",
+    "key": "[\"东土众生贪淫乐祸，不识三藏真经。观音，你去寻一个肯向西行的人。\",\"如来\",\"zh-CN-YunjianNeural\",\"-21%\",\"-23Hz\",\"+0%\"]",
+    "text": "东土众生贪淫乐祸，不识三藏真经。观音，你去寻一个肯向西行的人。",
+    "character": "如来",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-21%",
+    "pitch": "-23Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4b984830c1ca7786",
+    "key": "[\"弟子领旨。真经若要东传，须先看那人心里可还有慈悲。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "弟子领旨。真经若要东传，须先看那人心里可还有慈悲。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "662e8f028526704e",
+    "key": "[\"经卷尚在灵山，西行的因缘已经从这一道旨意开始。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "经卷尚在灵山，西行的因缘已经从这一道旨意开始。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5930d2a59bb2a119",
+    "key": "[\"观音带木叉离开灵山，一路察看东土山川与人心，先为取经路安排护法。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音带木叉离开灵山，一路察看东土山川与人心，先为取经路安排护法。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0b530318c41a4469",
+    "key": "[\"取经人尚未上路，护法却要先在山水之间等候。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "取经人尚未上路，护法却要先在山水之间等候。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "8f835ab76af6e3f4",
+    "key": "[\"五行山下那只心猿，流沙河里那名罪将，都先记在这条西行路上。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "五行山下那只心猿，流沙河里那名罪将，都先记在这条西行路上。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "923d6839964ffb9f",
+    "key": "[\"她的云头向东而去，五行山、流沙河与人间长安，渐被一条尚未出发的路连在一起。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "她的云头向东而去，五行山、流沙河与人间长安，渐被一条尚未出发的路连在一起。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "81db4a1796691dd2",
+    "key": "[\"卷帘大将因失手打碎琉璃盏，被贬流沙河，日日受飞剑穿心之苦。观音到来，问他可愿归正。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "卷帘大将因失手打碎琉璃盏，被贬流沙河，日日受飞剑穿心之苦。观音到来，问他可愿归正。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "f7bb96425aa6197c",
+    "key": "[\"我愿等候取经人，只求不再让前世的罪拖累后来的人。\",\"悟净\",\"zh-CN-YunyangNeural\",\"-13%\",\"-11Hz\",\"+0%\"]",
+    "text": "我愿等候取经人，只求不再让前世的罪拖累后来的人。",
+    "character": "悟净",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-13%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a12d22b0223c51b1",
+    "key": "[\"既愿归正，便在此等候。法名悟净，从此记在西行路上。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "既愿归正，便在此等候。法名悟净，从此记在西行路上。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "969a46578105dd0b",
+    "key": "[\"观音赐他法名悟净，命他在流沙河守候。此时他尚未与唐僧相识。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音赐他法名悟净，命他在流沙河守候。此时他尚未与唐僧相识。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b1b9c2f64d751d4f",
+    "key": "[\"唐僧的因缘先从江流儿说起：他随母亲被放入江中，被金山寺长老救起抚养。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐僧的因缘先从江流儿说起：他随母亲被放入江中，被金山寺长老救起抚养。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7dba256d823e344d",
+    "key": "[\"弟子既知身世，便以玄奘为名，把这一条命用在修行上。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "弟子既知身世，便以玄奘为名，把这一条命用在修行上。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "3922449068fe7c3b",
+    "key": "[\"多年后，江流儿认亲报仇，回到寺中修行；取经人的身世至此显出一线。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "多年后，江流儿认亲报仇，回到寺中修行；取经人的身世至此显出一线。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "53b8e3e363bc561f",
+    "key": "[\"长安城外，泾河龙王为争一口气，私改天条所定的雨数，事后向唐王求情。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "长安城外，泾河龙王为争一口气，私改天条所定的雨数，事后向唐王求情。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "40a6bf72e22d6819",
+    "key": "[\"龙王既来求情，朕答应了，便不能当没说过。\",\"唐王\",\"zh-CN-YunjianNeural\",\"-12%\",\"-13Hz\",\"+0%\"]",
+    "text": "龙王既来求情，朕答应了，便不能当没说过。",
+    "character": "唐王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-12%",
+    "pitch": "-13Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7d1390d5adf05616",
+    "key": "[\"臣奉的是天命。陛下的一诺，臣醒来后仍会如实回奏。\",\"魏征\",\"zh-CN-YunyangNeural\",\"-8%\",\"-6Hz\",\"+0%\"]",
+    "text": "臣奉的是天命。陛下的一诺，臣醒来后仍会如实回奏。",
+    "character": "魏征",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-8%",
+    "pitch": "-6Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a833261a40416415",
+    "key": "[\"魏征在梦中斩龙。龙王临死前留下冤魂，唐王的劫数由此而起。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "魏征在梦中斩龙。龙王临死前留下冤魂，唐王的劫数由此而起。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5f8ab6e51d52e531",
+    "key": "[\"龙王冤魂夜夜索命，唐太宗一病不起，魂游幽冥，见十殿阎君与生死簿。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "龙王冤魂夜夜索命，唐太宗一病不起，魂游幽冥，见十殿阎君与生死簿。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "f68096435a52887e",
+    "key": "[\"幽冥簿册上，善恶并不只记朕一人。\",\"唐王\",\"zh-CN-YunjianNeural\",\"-12%\",\"-13Hz\",\"+0%\"]",
+    "text": "幽冥簿册上，善恶并不只记朕一人。",
+    "character": "唐王",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-12%",
+    "pitch": "-13Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "8a6faea6c52e1ae1",
+    "key": "[\"陛下既已还阳，便把水陆大会当作给亡者与生者的一条路。\",\"魏征\",\"zh-CN-YunyangNeural\",\"-8%\",\"-6Hz\",\"+0%\"]",
+    "text": "陛下既已还阳，便把水陆大会当作给亡者与生者的一条路。",
+    "character": "魏征",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-8%",
+    "pitch": "-6Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "28158e34b14f07ad",
+    "key": "[\"还阳之后，唐王发愿修建水陆大会，广度孤魂，也为长安求一条安稳之路。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "还阳之后，唐王发愿修建水陆大会，广度孤魂，也为长安求一条安稳之路。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "ca141173a24130e2",
+    "key": "[\"长安水陆大会开坛，玄奘奉旨演经。长安城的香火与诵声，吸引观音暗中前来。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "长安水陆大会开坛，玄奘奉旨演经。长安城的香火与诵声，吸引观音暗中前来。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "71f8fe8f915ec9dd",
+    "key": "[\"经能渡人，也该先问人为何在苦海里。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "经能渡人，也该先问人为何在苦海里。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "72d5d8c1630bb3aa",
+    "key": "[\"若只把经念给台下听，却不问台下的人从何处来，这经筵便少了一半。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "若只把经念给台下听，却不问台下的人从何处来，这经筵便少了一半。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "2d8d4fdb6e45f606",
+    "key": "[\"台下万民静听。玄奘还不知道，自己的经筵将把他送上西天路。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "台下万民静听。玄奘还不知道，自己的经筵将把他送上西天路。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "8f4fe7bc1b69d3bf",
+    "key": "[\"观音化作疥癞僧人，在法会上问玄奘是否肯去西天拜佛求经。锦襕袈裟与九环锡杖随即显出光华。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音化作疥癞僧人，在法会上问玄奘是否肯去西天拜佛求经。锦襕袈裟与九环锡杖随即显出光华。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "75ffc60bc221de65",
+    "key": "[\"若真经能渡众生，贫僧愿往西天求取。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "若真经能渡众生，贫僧愿往西天求取。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "75978770f0a61981",
+    "key": "[\"既有此愿，这锦襕袈裟与九环锡杖便随你西去。路还长，先把心看稳。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "既有此愿，这锦襕袈裟与九环锡杖便随你西去。路还长，先把心看稳。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "6f94dd59fb81a2d6",
+    "key": "[\"唐王赐他御弟之号。玄奘整装出城，取经之路从长安真正起步。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐王赐他御弟之号。玄奘整装出城，取经之路从长安真正起步。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "9f2ac677a67e053f",
+    "key": "[\"玄奘西出长安，初到双叉岭便遇虎精。刘伯钦赶来打虎，将他暂留庄中。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "玄奘西出长安，初到双叉岭便遇虎精。刘伯钦赶来打虎，将他暂留庄中。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a58c1bf4f247814b",
+    "key": "[\"贫僧既受唐王所托，便不能因第一处险山回头。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "贫僧既受唐王所托，便不能因第一处险山回头。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "eb9a6c6081fbd921",
+    "key": "[\"刘施主打虎相救，贫僧记下了。只是西行不能停在这一庄。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "刘施主打虎相救，贫僧记下了。只是西行不能停在这一庄。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "61b49de6aa97023a",
+    "key": "[\"刘伯钦送玄奘到两界山边，前路再无人可代他迈步。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "刘伯钦送玄奘到两界山边，前路再无人可代他迈步。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "2c58cebbfe762e10",
+    "key": "[\"两界山下，石匣中伸出一双手。悟空见到玄奘，连声说取经人终于到了。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "两界山下，石匣中伸出一双手。悟空见到玄奘，连声说取经人终于到了。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "bd31698fb19ea59b",
+    "key": "[\"师父来得好，救我出去，我保你上西天。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父来得好，救我出去，我保你上西天。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "94f6f42c9cac4ea3",
+    "key": "[\"你既肯说护送，我便上山揭帖。只是下山之后，杀性也要收一收。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你既肯说护送，我便上山揭帖。只是下山之后，杀性也要收一收。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f55cbe1f1ed13d6f",
+    "key": "[\"杀性俺也去收得住。五百年了，谁来，俺也去都先问一句：你是不是去西天的？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "杀性俺也去收得住。五百年了，谁来，俺也去都先问一句：你是不是去西天的？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "472e662475d854c2",
+    "key": "[\"是。贫僧往西天求经。你为何被压在这里？\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "是。贫僧往西天求经。你为何被压在这里？",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "92d025309393b885",
+    "key": "[\"因为俺也去翻了天。如今只求你揭那张帖，其余的，路上再说。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "因为俺也去翻了天。如今只求你揭那张帖，其余的，路上再说。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "56e81f17360e9ba4",
+    "key": "[\"玄奘听明来历，答应为他揭去山顶真言；师徒的缘分在山风中落定。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "玄奘听明来历，答应为他揭去山顶真言；师徒的缘分在山风中落定。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "8f81cf797f5a7d47",
+    "key": "[\"压俺也去五百年，还想叫俺也去低声求人？取经人若肯救便救，俺也去不跪着求。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "压俺也去五百年，还想叫俺也去低声求人？取经人若肯救便救，俺也去不跪着求。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "a119f5bc48baa4e0",
+    "key": "[\"玄奘登上山顶，揭下六字真言。山石崩开，悟空从五百年禁锢中跃出。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "玄奘登上山顶，揭下六字真言。山石崩开，悟空从五百年禁锢中跃出。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "749cdcabc73f7c3c",
+    "key": "[\"师父放心，从今日起，俺也去护你西行。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父放心，从今日起，俺也去护你西行。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "f9d86fca29ba75b4",
+    "key": "[\"起来吧。从今日起，你我便是师徒，一路向西。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "起来吧。从今日起，你我便是师徒，一路向西。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "361bc60219e49a45",
+    "key": "[\"师父先把那张帖揭了，俺也去便拜。杀性的事，路上再说。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父先把那张帖揭了，俺也去便拜。杀性的事，路上再说。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "171bfa6144f57c0d",
+    "key": "[\"先拜师，再谈西行。你若护我，便也要听我一句劝。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "先拜师，再谈西行。你若护我，便也要听我一句劝。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1d78f1fe1c812e35",
+    "key": "[\"听得。五百年都等了，这一句还听不起吗。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "听得。五百年都等了，这一句还听不起吗。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "ca916ca6a7294a45",
+    "key": "[\"悟空叩头拜师，换上虎皮衣。五行山仍在，压住心猿的日子却已结束。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空叩头拜师，换上虎皮衣。五行山仍在，压住心猿的日子却已结束。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "31775deb0b3cb7f4",
+    "key": "[\"悟空除去六个剪径强盗，唐僧惊惧其杀性。观音所授的花帽还在包袱里，师父反复劝他戴上。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空除去六个剪径强盗，唐僧惊惧其杀性。观音所授的花帽还在包袱里，师父反复劝他戴上。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "ce42f262be877ce2",
+    "key": "[\"你有降魔的本事，也须学会不让本事伤及不该伤的人。先戴上这顶帽子。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你有降魔的本事，也须学会不让本事伤及不该伤的人。先戴上这顶帽子。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c93b7e3540173492",
+    "key": "[\"帽子便帽子。只是这针脚看着不对劲，里面像有金光。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "帽子便帽子。只是这针脚看着不对劲，里面像有金光。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "52a734f270812ed9",
+    "key": "[\"是观音菩萨所赐，保佑西行。你若连一顶帽子都疑，往后如何同行？\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "是观音菩萨所赐，保佑西行。你若连一顶帽子都疑，往后如何同行？",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e37dc782dc885473",
+    "key": "[\"俺也去疑的不是帽子，是帽子里那点不肯说破的东西。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "俺也去疑的不是帽子，是帽子里那点不肯说破的东西。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "764dc3eae97eaa0a",
+    "key": "[\"紧箍尚未落下，师徒的第一道约束，正等这一念决定。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "紧箍尚未落下，师徒的第一道约束，正等这一念决定。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a7bed969cd44592c",
+    "key": "[\"你在山下叩首时，我以为师徒二字已经足够。今日为何仍走到这道箍前？\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你在山下叩首时，我以为师徒二字已经足够。今日为何仍走到这道箍前？",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "0f60f694a00b0b9a",
+    "key": "[\"我早把闹天宫的旧事说尽。师父若仍怕我，也该明言，不必借一顶帽子相欺。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "我早把闹天宫的旧事说尽。师父若仍怕我，也该明言，不必借一顶帽子相欺。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "1b5ed78ff0fd0c7f",
+    "key": "[\"鹰愁涧白雾翻涌，白龙吞掉唐僧坐骑。悟空入水追寻，却见龙影潜在深潭。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "鹰愁涧白雾翻涌，白龙吞掉唐僧坐骑。悟空入水追寻，却见龙影潜在深潭。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "239008b531d1b4e5",
+    "key": "[\"师父守在岸上，水里的事交给俺也去查个明白。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父守在岸上，水里的事交给俺也去查个明白。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "38a394c295af7a13",
+    "key": "[\"你去查，贫僧在岸上等候。坐骑可失，人不能再陷进这涧里。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你去查，贫僧在岸上等候。坐骑可失，人不能再陷进这涧里。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "62268436fd298086",
+    "key": "[\"白龙，你吞的是马，还是要拦西行的人？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "白龙，你吞的是马，还是要拦西行的人？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "9d2ca4bb14746654",
+    "key": "[\"我吞的是坐骑，不是取经人的性命。这其中另有因由。\",\"白龙\",\"zh-CN-YunxiNeural\",\"+2%\",\"+2Hz\",\"+0%\"]",
+    "text": "我吞的是坐骑，不是取经人的性命。这其中另有因由。",
+    "character": "白龙",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+2%",
+    "pitch": "+2Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "db47b32e4c48e559",
+    "key": "[\"有因由便说。不说，俺也去便下水问。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "有因由便说。不说，俺也去便下水问。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "abc51ff5bf5323bc",
+    "key": "[\"观音点化西海龙子，白龙化作白马。师徒继续西行，行列里添了一匹默默负重的坐骑。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音点化西海龙子，白龙化作白马。师徒继续西行，行列里添了一匹默默负重的坐骑。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7c19e9a23349842c",
+    "key": "[\"师徒借宿观音院。二百七十岁的金池长老听说唐僧有锦襕袈裟，当晚便来禅房拜访。他双手合十，眼睛却只盯着包袱。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "师徒借宿观音院。二百七十岁的金池长老听说唐僧有锦襕袈裟，当晚便来禅房拜访。他双手合十，眼睛却只盯着包袱。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b95d3eb7850e515a",
+    "key": "[\"长老，借宿可以。这件袈裟是唐王所赐，不是拿来给寺里开眼的。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "长老，借宿可以。这件袈裟是唐王所赐，不是拿来给寺里开眼的。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8e9690dd61d2a3e0",
+    "key": "[\"老僧住持此院二百七十余年，见过的宝衣也不少。今晚只求一观，绝无他意。\",\"金池\",\"zh-CN-YunyangNeural\",\"-20%\",\"-20Hz\",\"+0%\"]",
+    "text": "老僧住持此院二百七十余年，见过的宝衣也不少。今晚只求一观，绝无他意。",
+    "character": "金池",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-20%",
+    "pitch": "-20Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b6566555818b0615",
+    "key": "[\"既是同门相访，贫僧本不该吝啬。只是徒弟性情急，怕冲撞了长老。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "既是同门相访，贫僧本不该吝啬。只是徒弟性情急，怕冲撞了长老。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "fae8529c496d7bdc",
+    "key": "[\"看看又何妨？一件衣服，难道还会飞了不成。\",\"金池\",\"zh-CN-YunyangNeural\",\"-20%\",\"-20Hz\",\"+0%\"]",
+    "text": "看看又何妨？一件衣服，难道还会飞了不成。",
+    "character": "金池",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-20%",
+    "pitch": "-20Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7c1a04775126f6ad",
+    "key": "[\"衣服不会飞，人的心思会。师父，先别急着打开。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "衣服不会飞，人的心思会。师父，先别急着打开。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "fcb1542c536ee618",
+    "key": "[\"孙行者疑心太重。老僧请看袈裟，难道还要先立下字据？\",\"金池\",\"zh-CN-YunyangNeural\",\"-20%\",\"-20Hz\",\"+0%\"]",
+    "text": "孙行者疑心太重。老僧请看袈裟，难道还要先立下字据？",
+    "character": "金池",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-20%",
+    "pitch": "-20Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4c26bf347e2bb701",
+    "key": "[\"袈裟还在包袱里，金池的笑意已经薄了。这一夜会怎样，还没人说定。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "袈裟还在包袱里，金池的笑意已经薄了。这一夜会怎样，还没人说定。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c9542b119149bae6",
+    "key": "[\"你循着黑风追到黑风山。洞门半开，黑熊精正把锦襕袈裟披在身上，对小妖说今夜要办佛衣会。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "你循着黑风追到黑风山。洞门半开，黑熊精正把锦襕袈裟披在身上，对小妖说今夜要办佛衣会。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "826b30a31466d3ab",
+    "key": "[\"黑熊，袈裟是我师父的。你现在脱下来，这事还能善了。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "黑熊，袈裟是我师父的。你现在脱下来，这事还能善了。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "eb7b668a8590203e",
+    "key": "[\"火里捡来的，便是山里的。孙悟空，你打得过我，再来说话。\",\"妖\",\"zh-CN-YunjianNeural\",\"-7%\",\"-16Hz\",\"+0%\"]",
+    "text": "火里捡来的，便是山里的。孙悟空，你打得过我，再来说话。",
+    "character": "妖",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-7%",
+    "pitch": "-16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "689698b3d2039057",
+    "key": "[\"捡？观音院那把火，就是你和那老和尚一起点的？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "捡？观音院那把火，就是你和那老和尚一起点的？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "438a0202df74c487",
+    "key": "[\"老和尚贪衣，我贪会。各取所需。这件佛衣今夜就要开光，谁来夺，先问过这杆枪。\",\"妖\",\"zh-CN-YunjianNeural\",\"-7%\",\"-16Hz\",\"+0%\"]",
+    "text": "老和尚贪衣，我贪会。各取所需。这件佛衣今夜就要开光，谁来夺，先问过这杆枪。",
+    "character": "妖",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-7%",
+    "pitch": "-16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "03b7290ac71238b5",
+    "key": "[\"你办佛衣会，我倒要看看，是衣先到，还是棒先到。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "你办佛衣会，我倒要看看，是衣先到，还是棒先到。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7ea355f3ed904e0c",
+    "key": "[\"洞门未关，枪还没有先落。这一架打不打，还在你一念之间。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "洞门未关，枪还没有先落。这一架打不打，还在你一念之间。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "fa62aec31c34c176",
+    "key": "[\"打过了。袈裟还在你肩上，这事没完。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "打过了。袈裟还在你肩上，这事没完。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "ec6ab319881a7ba5",
+    "key": "[\"打得过我，再来说话。今夜佛衣会，照开。\",\"妖\",\"zh-CN-YunjianNeural\",\"-7%\",\"-16Hz\",\"+0%\"]",
+    "text": "打得过我，再来说话。今夜佛衣会，照开。",
+    "character": "妖",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-7%",
+    "pitch": "-16Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "12df68bfba40c391",
+    "key": "[\"开便开。衣一日不还，俺也去一日不走。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "开便开。衣一日不还，俺也去一日不走。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "39442fdf25e64489",
+    "key": "[\"高老庄夜里不宁。猪刚鬣自称上门女婿，高太公却说女儿被强留。悟空在闺房里等他回来。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "高老庄夜里不宁。猪刚鬣自称上门女婿，高太公却说女儿被强留。悟空在闺房里等他回来。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "737ecf17f386fd28",
+    "key": "[\"你若真是取经路上等候的人，先收起这副强娶的脾气，把话说明白。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "你若真是取经路上等候的人，先收起这副强娶的脾气，把话说明白。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "92ab81627a973515",
+    "key": "[\"嘿嘿，娘子今夜怎么换了口气？莫不是家里又请了什么和尚来搅局。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "嘿嘿，娘子今夜怎么换了口气？莫不是家里又请了什么和尚来搅局。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "284e64d999f237ef",
+    "key": "[\"和尚倒是请了。你先说自己是谁，再谈娶亲的事。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "和尚倒是请了。你先说自己是谁，再谈娶亲的事。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "1c77ee3a94b6cd78",
+    "key": "[\"俺老猪原是天蓬，被贬下界。观音说过，取经人来了，便该跟着走。你……你不是高小姐？\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "俺老猪原是天蓬，被贬下界。观音说过，取经人来了，便该跟着走。你……你不是高小姐？",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "dad4750a196273b6",
+    "key": "[\"云栈洞的门还开着，这一夜是打是谈，还没落定。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "云栈洞的门还开着，这一夜是打是谈，还没落定。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "9371f78b3f1f5c1c",
+    "key": "[\"唐僧来到云栈洞，见猪刚鬣已受观音戒行。悟空替师父说明来意。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐僧来到云栈洞，见猪刚鬣已受观音戒行。悟空替师父说明来意。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b59b7bc7bca05dda",
+    "key": "[\"俺也去愿随师父西去，只盼这回别再把路走错。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "俺也去愿随师父西去，只盼这回别再把路走错。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7cee001cd5451af1",
+    "key": "[\"愿走便走。路上要吃饭可以，再害人，俺也去这棒可不认师弟。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "愿走便走。路上要吃饭可以，再害人，俺也去这棒可不认师弟。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "be68af50c2dece05",
+    "key": "[\"害人的事俺也去不做了。只是赶路饿了，总该让人吃一口。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "害人的事俺也去不做了。只是赶路饿了，总该让人吃一口。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "eec225d7438a83e3",
+    "key": "[\"吃饭可以。再强娶、再骗人，这棒先认你。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "吃饭可以。再强娶、再骗人，这棒先认你。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "9c2bb3b36de803e4",
+    "key": "[\"认得。从今日起，俺老猪跟你们走。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "认得。从今日起，俺老猪跟你们走。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5342e161acbfbf4c",
+    "key": "[\"唐僧赐他法名悟能，众人叫他八戒。师徒三人离开高老庄，前路渐有同伴。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐僧赐他法名悟能，众人叫他八戒。师徒三人离开高老庄，前路渐有同伴。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "aa999de7ce0447f0",
+    "key": "[\"黄风岭妖风卷地，唐僧被黄风怪掳入洞中。悟空与八戒循风追赶，却被三昧神风迷了眼。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "黄风岭妖风卷地，唐僧被黄风怪掳入洞中。悟空与八戒循风追赶，却被三昧神风迷了眼。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "72fffe3cee7f1fcc",
+    "key": "[\"风再大也有根脚，俺也去先找它不敢吹过来的地方。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "风再大也有根脚，俺也去先找它不敢吹过来的地方。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "3d4962304fa7c36d",
+    "key": "[\"猴哥，这风迷眼，俺也去先护住行李。师父在洞里，咱们不能散。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥，这风迷眼，俺也去先护住行李。师父在洞里，咱们不能散。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "48776a0e29619e28",
+    "key": "[\"行李你护。俺也去去找这风不敢吹过来的地方。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "行李你护。俺也去去找这风不敢吹过来的地方。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "9032332df8411673",
+    "key": "[\"你去便去，可别把俺也去一个人撂在风口。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "你去便去，可别把俺也去一个人撂在风口。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "742e435bd9a8a07c",
+    "key": "[\"不撂。找到根脚，再一起进洞。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "不撂。找到根脚，再一起进洞。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "4aa948b26bc3fef3",
+    "key": "[\"灵吉菩萨以飞龙杖定住黄风。师徒救回唐僧，继续向流沙河而去。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "灵吉菩萨以飞龙杖定住黄风。师徒救回唐僧，继续向流沙河而去。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "e647dfea41bc9718",
+    "key": "[\"流沙河水弱，鹅毛难浮。河中妖怪拖走唐僧，八戒下水同他大战，几次都未分胜负。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "流沙河水弱，鹅毛难浮。河中妖怪拖走唐僧，八戒下水同他大战，几次都未分胜负。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5086624f3513c43f",
+    "key": "[\"水里难使耙，也得把师父从这河里夺回来。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "水里难使耙，也得把师父从这河里夺回来。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "2d72422bfa944cd0",
+    "key": "[\"你再打，也只是把河水搅浑。我在此等候的，本就是取经人。\",\"悟净\",\"zh-CN-YunyangNeural\",\"-13%\",\"-11Hz\",\"+0%\"]",
+    "text": "你再打，也只是把河水搅浑。我在此等候的，本就是取经人。",
+    "character": "悟净",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-13%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b411dbc8af93d7d2",
+    "key": "[\"悟空在岸上急切无计，河中那名妖怪的来历，正等观音门人来说明。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空在岸上急切无计，河中那名妖怪的来历，正等观音门人来说明。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0c733435b54d906c",
+    "key": "[\"木叉行者来到河边，唤出卷帘大将，说明他原是观音安排在此等候取经人的护法。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "木叉行者来到河边，唤出卷帘大将，说明他原是观音安排在此等候取经人的护法。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "05144ec2fd274d72",
+    "key": "[\"我愿背负行李，渡师父过河；从今不再拖人入水。\",\"悟净\",\"zh-CN-YunyangNeural\",\"-13%\",\"-11Hz\",\"+0%\"]",
+    "text": "我愿背负行李，渡师父过河；从今不再拖人入水。",
+    "character": "悟净",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-13%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "ca8d5f740e748f3c",
+    "key": "[\"愿走便走。行李你来背，河里的旧账，以后别再往师父身上扯。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "愿走便走。行李你来背，河里的旧账，以后别再往师父身上扯。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e8bf292d72eff6af",
+    "key": "[\"悟净颈下骷髅化作法船，师徒渡过流沙河。取经队伍至此聚齐。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟净颈下骷髅化作法船，师徒渡过流沙河。取经队伍至此聚齐。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "898e0aae616a2174",
+    "key": "[\"庄院中的母女愿招师徒为婿，唐僧坚辞，悟空识破机锋，八戒却心生贪恋。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "庄院中的母女愿招师徒为婿，唐僧坚辞，悟空识破机锋，八戒却心生贪恋。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "3ee01690099d46bb",
+    "key": "[\"俺也去只是一时糊涂，师父莫把这事记在心里。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "俺也去只是一时糊涂，师父莫把这事记在心里。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1db3ed608ec42189",
+    "key": "[\"糊涂可以认，却不能把西行路换成一庄婚事。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "糊涂可以认，却不能把西行路换成一庄婚事。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "da8193d9e41ebc1e",
+    "key": "[\"天明后庄院无踪，八戒被绑在树上受了一夜风露。四圣留下的，不是情话，而是一场警醒。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "天明后庄院无踪，八戒被绑在树上受了一夜风露。四圣留下的，不是情话，而是一场警醒。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "56ffbae430743a03",
+    "key": "[\"五庄观人参果树三千年一开花、三千年一结果。清风明月只奉果给唐僧，悟空与八戒却在园中偷果。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "五庄观人参果树三千年一开花、三千年一结果。清风明月只奉果给唐僧，悟空与八戒却在园中偷果。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7773e7d4067f6976",
+    "key": "[\"一枚果子倒像个娃娃，既叫俺们看见，便不能只让它挂在树上。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "一枚果子倒像个娃娃，既叫俺们看见，便不能只让它挂在树上。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b1afdae1382aed98",
+    "key": "[\"猴哥，果是你摘的，可别把俺也去一个人撇在骂声里。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥，果是你摘的，可别把俺也去一个人撇在骂声里。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4ec3404ec2e9086c",
+    "key": "[\"人参果落地即入土，清风明月哭骂不休。悟空的顽性，又把师徒推入一场大难。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "人参果落地即入土，清风明月哭骂不休。悟空的顽性，又把师徒推入一场大难。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "e4955ff2b92d98a2",
+    "key": "[\"镇元大仙回观，捆住唐僧师徒索赔人参果。悟空脱身后，一棍推倒宝树。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "镇元大仙回观，捆住唐僧师徒索赔人参果。悟空脱身后，一棍推倒宝树。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0fe6da6d3a234661",
+    "key": "[\"他既用树来压人，我便先叫这树不能再压谁。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "他既用树来压人，我便先叫这树不能再压谁。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "2a1d2ad085c91dea",
+    "key": "[\"树倒了，人还在。悟空，这一回的祸，你要自己去求方。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "树倒了，人还在。悟空，这一回的祸，你要自己去求方。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4080562529db61e0",
+    "key": "[\"枝叶倒地，祸事更深。镇元大仙袖里乾坤收走师徒，悟空不得不为自己闯下的事寻解法。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "枝叶倒地，祸事更深。镇元大仙袖里乾坤收走师徒，悟空不得不为自己闯下的事寻解法。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "54a17603eaf2a831",
+    "key": "[\"先前既肯依礼问果，此刻也莫让童子几句辱骂毁了那份分寸。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "先前既肯依礼问果，此刻也莫让童子几句辱骂毁了那份分寸。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "783b3bd1f004cbfc",
+    "key": "[\"果是背人摘的，树也是怒中推的。两笔账，不能只认后面一笔。\",\"镇元\",\"zh-CN-YunyangNeural\",\"-15%\",\"-13Hz\",\"+0%\"]",
+    "text": "果是背人摘的，树也是怒中推的。两笔账，不能只认后面一笔。",
+    "character": "镇元",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-15%",
+    "pitch": "-13Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "dad4f18d91a6e580",
+    "key": "[\"为救人参果树，悟空先后奔蓬莱、方丈、瀛洲，诸仙都无良方，只得再往南海求观音。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "为救人参果树，悟空先后奔蓬莱、方丈、瀛洲，诸仙都无良方，只得再往南海求观音。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "d179afdafdc59cd3",
+    "key": "[\"这一次不是为逞强，是我欠下的树、欠下的师父，都得我亲自救回。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这一次不是为逞强，是我欠下的树、欠下的师父，都得我亲自救回。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "33cc1ba0f5a676cc",
+    "key": "[\"观音以甘露活树，镇元大仙与悟空结为兄弟。师徒终于离开五庄观。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音以甘露活树，镇元大仙与悟空结为兄弟。师徒终于离开五庄观。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b31b618694dfb1b1",
+    "key": "[\"你肯说一人担责，贫道便只留你求方。其余师徒，不必再绑。\",\"镇元\",\"zh-CN-YunyangNeural\",\"-15%\",\"-13Hz\",\"+0%\"]",
+    "text": "你肯说一人担责，贫道便只留你求方。其余师徒，不必再绑。",
+    "character": "镇元",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-15%",
+    "pitch": "-13Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f308d5b74a551123",
+    "key": "[\"白骨岭山风刮过荒村。一个送饭村姑提篮近前，唐僧只见人形，悟空却看见皮囊后的妖气。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "白骨岭山风刮过荒村。一个送饭村姑提篮近前，唐僧只见人形，悟空却看见皮囊后的妖气。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "26d4f2520ddea926",
+    "key": "[\"长老们赶路辛苦，我篮中有斋饭，且用些再走。\",\"白骨村姑\",\"zh-CN-XiaoxiaoNeural\",\"+6%\",\"+8Hz\",\"+0%\"]",
+    "text": "长老们赶路辛苦，我篮中有斋饭，且用些再走。",
+    "character": "白骨村姑",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+6%",
+    "pitch": "+8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "82ea704073e00bdd",
+    "key": "[\"师父，这是解尸法。倒下的是皮，跑掉的是妖。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父，这是解尸法。倒下的是皮，跑掉的是妖。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "136549a430bc3b69",
+    "key": "[\"你又伤人了。她只是来送一篮斋饭。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你又伤人了。她只是来送一篮斋饭。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "0d66dbf13341bca2",
+    "key": "[\"方才可曾见我送饭的女儿？她怎会倒在这里？\",\"白骨老妇\",\"zh-CN-XiaoyiNeural\",\"-12%\",\"-16Hz\",\"-2%\"]",
+    "text": "方才可曾见我送饭的女儿？她怎会倒在这里？",
+    "character": "白骨老妇",
+    "voice": "zh-CN-XiaoyiNeural",
+    "rate": "-12%",
+    "pitch": "-16Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "846d32fa12bb708e",
+    "key": "[\"又来一个。火眼没花，还是那缕妖气。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "又来一个。火眼没花，还是那缕妖气。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "5cef9168516d793f",
+    "key": "[\"先别动手。让他把话说完。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "先别动手。让他把话说完。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e4b26be809bf9309",
+    "key": "[\"我的女儿和老妻都不见了，你们须还我一个明白！\",\"白骨老翁\",\"zh-CN-YunyangNeural\",\"-14%\",\"-21Hz\",\"+0%\"]",
+    "text": "我的女儿和老妻都不见了，你们须还我一个明白！",
+    "character": "白骨老翁",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-14%",
+    "pitch": "-21Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e579b582843cb5b9",
+    "key": "[\"师父眼前是人，我眼前却是要害你的妖。它换三张脸，妖气也瞒不过俺也去。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父眼前是人，我眼前却是要害你的妖。它换三张脸，妖气也瞒不过俺也去。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "cf49bc2e5c736e9a",
+    "key": "[\"三张面孔已经叠在同一缕妖气上。唐僧只看见哭声，你看见的是同一只白骨。下一棒打不打，还等你开口。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "三张面孔已经叠在同一缕妖气上。唐僧只看见哭声，你看见的是同一只白骨。下一棒打不打，还等你开口。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "ad344fc75e669483",
+    "key": "[\"唐僧不信白骨精之事，连念紧箍咒，要悟空离开。悟空拜别师父，回到花果山。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐僧不信白骨精之事，连念紧箍咒，要悟空离开。悟空拜别师父，回到花果山。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "35470bc31f55d0d8",
+    "key": "[\"你若真要我走，我走；只是此后遇险，师父也须多留一分眼。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "你若真要我走，我走；只是此后遇险，师父也须多留一分眼。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "c4f6d19f51b1baf5",
+    "key": "[\"你连伤三人，还说他们是妖。我念咒不是为了赌气，是要你离开。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你连伤三人，还说他们是妖。我念咒不是为了赌气，是要你离开。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7c26c7c3332d63db",
+    "key": "[\"师兄打人\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师兄打人",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "3ba43423a147589b",
+    "key": "[\"我看见的是倒下的人。你若留下，便先把棒收起来。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "我看见的是倒下的人。你若留下，便先把棒收起来。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "cdad4b82e6978b5c",
+    "key": "[\"棒可收。只是你要我走，便把话说死。别等前面再遇险，又怪我不在。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "棒可收。只是你要我走，便把话说死。别等前面再遇险，又怪我不在。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "41b752163beb8bb8",
+    "key": "[\"金箍没有摘下，师徒却已分开。西行路忽然少了最擅长看穿妖雾的那双眼。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "金箍没有摘下，师徒却已分开。西行路忽然少了最擅长看穿妖雾的那双眼。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "470779f18c0f1b6e",
+    "key": "[\"师父，两界山时你答应过，不因争执轻念紧箍咒。今日这份约定还算不算？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "师父，两界山时你答应过，不因争执轻念紧箍咒。今日这份约定还算不算？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "329cc0be9a8a1720",
+    "key": "[\"三次饭食、脚印与魂魄都验过了。师父若仍逐我，请说清你不信的是证据，还是我。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "三次饭食、脚印与魂魄都验过了。师父若仍逐我，请说清你不信的是证据，还是我。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "511cd6a2acbd54a1",
+    "key": "[\"我只见你连落三棒，却没听你说清妖怪的破绽。如今尸身都在眼前，我怎敢不疑？\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "我只见你连落三棒，却没听你说清妖怪的破绽。如今尸身都在眼前，我怎敢不疑？",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "d21cf6c26fb873e2",
+    "key": "[\"三次变化的脚印、斋饭和离体白光，我都看见了。我仍惧你杀心，却不能说你毫无凭据。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "三次变化的脚印、斋饭和离体白光，我都看见了。我仍惧你杀心，却不能说你毫无凭据。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "6ad38b310f89e508",
+    "key": "[\"唐僧离开白骨岭后，经过宝象国，被黄袍怪掳到波月洞。百花羞公主暗中放他回国，黄袍怪却追到王城，将唐僧变作猛虎。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐僧离开白骨岭后，经过宝象国，被黄袍怪掳到波月洞。百花羞公主暗中放他回国，黄袍怪却追到王城，将唐僧变作猛虎。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "3fd3001ee28c53bf",
+    "key": "[\"我虽陷在妖雾里，也不能忘记西行的誓愿。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "我虽陷在妖雾里，也不能忘记西行的誓愿。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "709c78bfd26f0145",
+    "key": "[\"八戒、悟净难敌黄袍怪，只得商议去花果山请回被逐的悟空。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "八戒、悟净难敌黄袍怪，只得商议去花果山请回被逐的悟空。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "f3e0a15308d089a8",
+    "key": "[\"唐僧被黄袍怪变作猛虎，八戒、悟净无力救师。八戒来到花果山，用激将法请悟空回去。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "唐僧被黄袍怪变作猛虎，八戒、悟净无力救师。八戒来到花果山，用激将法请悟空回去。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "d27f9e663661e553",
+    "key": "[\"猴哥，师父虽赶你走，可这一路没你真撑不住。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥，师父虽赶你走，可这一路没你真撑不住。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4ae3064418ad3594",
+    "key": "[\"他赶我走的时候，话说得很死。你如今来，是请我，还是激我？\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "他赶我走的时候，话说得很死。你如今来，是请我，还是激我？",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "120edbd861ffb0ae",
+    "key": "[\"请也是请，激也是激。师父被变作老虎，沙师弟打不过，俺也去也打不过。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "请也是请，激也是激。师父被变作老虎，沙师弟打不过，俺也去也打不过。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b1853d11bb5040f1",
+    "key": "[\"打不过便上花果山？也不怕俺也去不认你这师弟。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "打不过便上花果山？也不怕俺也去不认你这师弟。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b45188a57cd092e3",
+    "key": "[\"不认也得认。你不回去，师父就完了。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "不认也得认。你不回去，师父就完了。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "d5687b9b1a22661b",
+    "key": "[\"悟空回到宝象国，揭穿黄袍怪是奎木狼下界，使唐僧恢复人形。师徒重聚，花果山的离别至此化作一路更深的信任。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空回到宝象国，揭穿黄袍怪是奎木狼下界，使唐僧恢复人形。师徒重聚，花果山的离别至此化作一路更深的信任。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "2d9792125a82f9c5",
+    "key": "[\"猴哥，救命毫毛俺也去带来了。你说过师父有难仍来，这句话可还算数？\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥，救命毫毛俺也去带来了。你说过师父有难仍来，这句话可还算数？",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "ca8d7ee37ed519d8",
+    "key": "[\"白骨岭上真形都摆到眼前，师父仍错怪了你。这回俺也去把真话说全，不再只会激你。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "白骨岭上真形都摆到眼前，师父仍错怪了你。这回俺也去把真话说全，不再只会激你。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a4d24ecdf2d63890",
+    "key": "[\"平顶山莲花洞中，金角银角用葫芦、玉净瓶、幌金绳困住师徒。悟空在山野间反复变化周旋。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "平顶山莲花洞中，金角银角用葫芦、玉净瓶、幌金绳困住师徒。悟空在山野间反复变化周旋。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "aa61a662ec2bac1e",
+    "key": "[\"他们的宝贝多，心眼却未必比我多。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "他们的宝贝多，心眼却未必比我多。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e6743ed5b0cded64",
+    "key": "[\"悟空设法骗得法宝，又请太上老君收回金角银角。莲花洞的雾散了，行李也重新回到肩上。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空设法骗得法宝，又请太上老君收回金角银角。莲花洞的雾散了，行李也重新回到肩上。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "2cbdb637cfd7bd1b",
+    "key": "[\"深夜里乌鸡国国王冤魂来见唐僧，诉说自己被狮子精推入井中，妖怪变作国王三年。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "深夜里乌鸡国国王冤魂来见唐僧，诉说自己被狮子精推入井中，妖怪变作国王三年。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "eafac0b95dbabf8d",
+    "key": "[\"冤魂既来求救，贫僧不能只当作一场梦。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "冤魂既来求救，贫僧不能只当作一场梦。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "503dc73ebadaa005",
+    "key": "[\"悟空随国王冤魂来到御花园井边，井水下藏着三年的真相。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空随国王冤魂来到御花园井边，井水下藏着三年的真相。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "75f2f08ce0f7569b",
+    "key": "[\"枯松涧前，一个孩子被绑在树上哭喊。唐僧要救，悟空察觉异样，八戒却先上前解绳。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "枯松涧前，一个孩子被绑在树上哭喊。唐僧要救，悟空察觉异样，八戒却先上前解绳。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "1f023f276f5781d8",
+    "key": "[\"猴哥，这孩子哭成这样，俺也去总不能只站着看。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥，这孩子哭成这样，俺也去总不能只站着看。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "15730b257ec2f7e9",
+    "key": "[\"长老们行行好，救我下去。我家里人还在等。\",\"红孩\",\"zh-CN-YunxiaNeural\",\"+15%\",\"+18Hz\",\"+0%\"]",
+    "text": "长老们行行好，救我下去。我家里人还在等。",
+    "character": "红孩",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+15%",
+    "pitch": "+18Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "45c0b3c2b2f6eadb",
+    "key": "[\"你听他哭的。猴哥，你那火眼这回先歇歇。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "你听他哭的。猴哥，你那火眼这回先歇歇。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "36d3535009b5efe4",
+    "key": "[\"哭得越像，越要问一句：谁把他绑在这树上。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "哭得越像，越要问一句：谁把他绑在这树上。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "27ca7d8bc89a195e",
+    "key": "[\"问那么多做什么？先救人，不好吗？\",\"红孩\",\"zh-CN-YunxiaNeural\",\"+15%\",\"+18Hz\",\"+0%\"]",
+    "text": "问那么多做什么？先救人，不好吗？",
+    "character": "红孩",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+15%",
+    "pitch": "+18Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1abec63d155167aa",
+    "key": "[\"红孩儿借善心设局，乘风掳走唐僧。火云洞的烈焰，挡在师徒面前。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "红孩儿借善心设局，乘风掳走唐僧。火云洞的烈焰，挡在师徒面前。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "2722d47d6230987e",
+    "key": "[\"白骨岭错过三次解释，这回俺也去先把绳结、脚印与火气逐样说清，师父再断真假。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "白骨岭错过三次解释，这回俺也去先把绳结、脚印与火气逐样说清，师父再断真假。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7a7683d1b0529a70",
+    "key": "[\"你若又只说火眼看见了妖，至少先让我看见你为何这样判断。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你若又只说火眼看见了妖，至少先让我看见你为何这样判断。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c7b1366ae96586d6",
+    "key": "[\"红孩儿口吐三昧真火，悟空用避火诀仍被烟火伤眼。八戒、悟净守在洞外，难近火门。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "红孩儿口吐三昧真火，悟空用避火诀仍被烟火伤眼。八戒、悟净守在洞外，难近火门。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "063211327df60608",
+    "key": "[\"这火不是寻常柴火，硬闯只会把大家都困在里面。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这火不是寻常柴火，硬闯只会把大家都困在里面。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "a769bf554c52aa9a",
+    "key": "[\"悟空赴南海求观音。火云洞的胜负，要用比棍棒更周全的办法来解。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空赴南海求观音。火云洞的胜负，要用比棍棒更周全的办法来解。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c737485d7e0b4fbc",
+    "key": "[\"观音化作假观音，引红孩儿上莲台，以天罡刀收住其顽心。悟空在旁护住师父。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音化作假观音，引红孩儿上莲台，以天罡刀收住其顽心。悟空在旁护住师父。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "4d54feff3bfcfbd2",
+    "key": "[\"能收住他的不是火更大，而是让他明白这条路不能再害人。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "能收住他的不是火更大，而是让他明白这条路不能再害人。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e3561a2d2fefca71",
+    "key": "[\"红孩儿皈依为善财童子，唐僧脱险。火云洞的红光落下，师徒继续西行。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "红孩儿皈依为善财童子，唐僧脱险。火云洞的红光落下，师徒继续西行。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a6c4a0d26cfb98ac",
+    "key": "[\"你先验出他的变化，今日也该明白：收伏不只要压住火，更要让他认下所为。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "你先验出他的变化，今日也该明白：收伏不只要压住火，更要让他认下所为。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "b82d111270ca833d",
+    "key": "[\"先前未辨清便出棒，今日既已制住他，就莫再把惩戒当成泄愤。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "先前未辨清便出棒，今日既已制住他，就莫再把惩戒当成泄愤。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "9785ed51afdc12a4",
+    "key": "[\"你已辨清三昧火借雨生烟的势头，也肯在负伤后留下退路。今日收伏，便由你守住火云洞外。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "你已辨清三昧火借雨生烟的势头，也肯在负伤后留下退路。今日收伏，便由你守住火云洞外。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a619379e500e88ba",
+    "key": "[\"三道火路皆被你看破，换气之隙也没有错过。能辨火势，才知道净瓶该落在何处。\",\"观音\",\"zh-CN-XiaoxiaoNeural\",\"-13%\",\"-3Hz\",\"+0%\"]",
+    "text": "三道火路皆被你看破，换气之隙也没有错过。能辨火势，才知道净瓶该落在何处。",
+    "character": "观音",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-13%",
+    "pitch": "-3Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "167644ecc75fe5fd",
+    "key": "[\"黑水河鼍龙趁夜掳走唐僧。悟空潜水难施，便请西海龙宫派摩昂太子来援。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "黑水河鼍龙趁夜掳走唐僧。悟空潜水难施，便请西海龙宫派摩昂太子来援。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "71726a933c52b3fa",
+    "key": "[\"水里的亲缘若肯说清，比我一人下水乱打更快救出师父。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "水里的亲缘若肯说清，比我一人下水乱打更快救出师父。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "21329515bcb33d75",
+    "key": "[\"鼍龙被擒，唐僧重回岸上。白龙马低头踏过河滩，队伍没有再被黑水截断。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "鼍龙被擒，唐僧重回岸上。白龙马低头踏过河滩，队伍没有再被黑水截断。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "41e844ae65c19718",
+    "key": "[\"车迟国尊道灭僧，虎力、鹿力、羊力三国师以法术逼迫僧人。悟空与唐僧入城应试。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "车迟国尊道灭僧，虎力、鹿力、羊力三国师以法术逼迫僧人。悟空与唐僧入城应试。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "f7ec475855e62355",
+    "key": "[\"法术若只用来压人，再高也不是正道。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "法术若只用来压人，再高也不是正道。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8d3e73265e20e8ba",
+    "key": "[\"求雨、坐禅、赌赛之后，三妖现形伏诛。车迟国的僧人重新抬头走出寺门。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "求雨、坐禅、赌赛之后，三妖现形伏诛。车迟国的僧人重新抬头走出寺门。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "11df837184d17a6a",
+    "key": "[\"车迟国最后一场赌赛落下，虎力、鹿力、羊力的邪术被悟空逐一拆破。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "车迟国最后一场赌赛落下，虎力、鹿力、羊力的邪术被悟空逐一拆破。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5871d462cba58592",
+    "key": "[\"真本事不怕照见，怕的是拿来逼人低头。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "真本事不怕照见，怕的是拿来逼人低头。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "ccfc5704bd004aca",
+    "key": "[\"三妖伏诛，唐僧劝国王善待僧人。师徒离城时，寺钟终于不再为恐惧而响。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "三妖伏诛，唐僧劝国王善待僧人。师徒离城时，寺钟终于不再为恐惧而响。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "09b41b5b6fe68272",
+    "key": "[\"殿外获释僧众皆是此事证人。今日如何处置三妖，也该让他们听见。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "殿外获释僧众皆是此事证人。今日如何处置三妖，也该让他们听见。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "28a33384b1fdc1d0",
+    "key": "[\"三场斗法全城都看着。最后一局若还赌命，便不能只拿一句妖怪自找搪塞。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "三场斗法全城都看着。最后一局若还赌命，便不能只拿一句妖怪自找搪塞。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "cc7f700ae3610f0d",
+    "key": "[\"通天河边的陈家庄，为求河神息怒，要献出童男童女。八戒抱起孩子，唐僧决定留宿相救。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "通天河边的陈家庄，为求河神息怒，要献出童男童女。八戒抱起孩子，唐僧决定留宿相救。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "9afcc54fff303293",
+    "key": "[\"孩子先离开河边，妖怪的账俺也去随后再算。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "孩子先离开河边，妖怪的账俺也去随后再算。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "790fcfe48a147879",
+    "key": "[\"悟空变作陈关保，八戒变作一秤金，师徒在祭祀之夜等候灵感大王现身。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空变作陈关保，八戒变作一秤金，师徒在祭祀之夜等候灵感大王现身。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b0205b66987f5a94",
+    "key": "[\"灵感大王在通天河兴风作浪，师徒数次交锋。悟空请观音来辨其根脚。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "灵感大王在通天河兴风作浪，师徒数次交锋。悟空请观音来辨其根脚。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "e1f48795351af3f0",
+    "key": "[\"河里这条金鱼，终究还得回到认得它的人手中。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "河里这条金鱼，终究还得回到认得它的人手中。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "54a58d587f69ce06",
+    "key": "[\"观音抛下鱼篮，金鱼现形入篮。通天河水恢复平静，陈家庄不必再献孩子。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "观音抛下鱼篮，金鱼现形入篮。通天河水恢复平静，陈家庄不必再献孩子。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "4b09f7078c3be580",
+    "key": "[\"菩萨，十二年祭册俺也去带来了。不能一句金鱼归池，就抹掉童男童女的旧账。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "菩萨，十二年祭册俺也去带来了。不能一句金鱼归池，就抹掉童男童女的旧账。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "0861d3b77e0b1b84",
+    "key": "[\"你替孩子坐上祭盘时一句话也没留。今日收妖，莫再让旁人猜你的用意。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "你替孩子坐上祭盘时一句话也没留。今日收妖，莫再让旁人猜你的用意。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "61c649b4583a0582",
+    "key": "[\"金兜洞青牛精祭起金刚琢，将悟空的金箍棒和天兵法器一并收走。悟空连请诸神也难取胜。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "金兜洞青牛精祭起金刚琢，将悟空的金箍棒和天兵法器一并收走。悟空连请诸神也难取胜。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "6418a7d4703e1a6c",
+    "key": "[\"宝贝落到谁手里不算本事，敢不敢认来处才算。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "宝贝落到谁手里不算本事，敢不敢认来处才算。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "c3576efe2546bead",
+    "key": "[\"太上老君认出青牛是自己的坐骑，收回金刚琢。悟空取回金箍棒，才知借来的神力也有边界。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "太上老君认出青牛是自己的坐骑，收回金刚琢。悟空取回金箍棒，才知借来的神力也有边界。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "cb0c32eed5b179ac",
+    "key": "[\"西梁女国前，唐僧与八戒误饮子母河水，腹中有了胎气。悟空得知需取落胎泉水才能解救。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "西梁女国前，唐僧与八戒误饮子母河水，腹中有了胎气。悟空得知需取落胎泉水才能解救。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "79e7e074696884ac",
+    "key": "[\"俺也去这回真不敢乱喝水了，猴哥快去快回。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "俺也去这回真不敢乱喝水了，猴哥快去快回。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "4353b673c0387f5b",
+    "key": "[\"悟空与如意真仙争泉，取回泉水。荒唐一难过去，师徒终于能再上马赶路。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空与如意真仙争泉，取回泉水。荒唐一难过去，师徒终于能再上马赶路。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "29bee99477e2fc31",
+    "key": "[\"西梁女国国王倾心唐僧，愿以国相让。唐僧知其情意真切，却不能忘记西行使命。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "西梁女国国王倾心唐僧，愿以国相让。唐僧知其情意真切，却不能忘记西行使命。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "fbeaa88976a72dac",
+    "key": "[\"贫僧不敢轻慢一片真心，也不能为了安稳忘了所受的佛旨。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "贫僧不敢轻慢一片真心，也不能为了安稳忘了所受的佛旨。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7014e92a1268e3d8",
+    "key": "[\"我问的是你的真心，不是一纸通关文牒。\",\"女王\",\"zh-CN-XiaoxiaoNeural\",\"-8%\",\"+4Hz\",\"+0%\"]",
+    "text": "我问的是你的真心，不是一纸通关文牒。",
+    "character": "女王",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "pitch": "+4Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "ee7924183b3452bf",
+    "key": "[\"真心在西行。国可以留给陛下，贫僧不能留下。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "真心在西行。国可以留给陛下，贫僧不能留下。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "f40187491a387514",
+    "key": "[\"你可以继续向西，却不该让沉默替你告别。\",\"女王\",\"zh-CN-XiaoxiaoNeural\",\"-8%\",\"+4Hz\",\"+0%\"]",
+    "text": "你可以继续向西，却不该让沉默替你告别。",
+    "character": "女王",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "pitch": "+4Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "65eeeb54f0d5e1e0",
+    "key": "[\"贫僧不敢沉默。这一别，是因为还有未取的经。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "贫僧不敢沉默。这一别，是因为还有未取的经。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5cc229a2e63a8c05",
+    "key": "[\"悟空借换关文之计带师父离城。女国的门在身后合上，取经路仍向西延伸。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空借换关文之计带师父离城。女国的门在身后合上，取经路仍向西延伸。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "8d6828c5ab1e85c2",
+    "key": "[\"琵琶洞蝎子精掳走唐僧，倒马毒刺刺伤悟空。八戒来战，也被毒钩逼退。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "琵琶洞蝎子精掳走唐僧，倒马毒刺刺伤悟空。八戒来战，也被毒钩逼退。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "804088eafdf1ab2a",
+    "key": "[\"这毒刺能伤身，伤不了我把师父带回来的心。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这毒刺能伤身，伤不了我把师父带回来的心。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "32b216edc7d04dd1",
+    "key": "[\"昴日星官一声啼鸣，蝎子精现原形伏诛。师徒重聚，离开琵琶洞。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "昴日星官一声啼鸣，蝎子精现原形伏诛。师徒重聚，离开琵琶洞。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "ba0251f166626d43",
+    "key": "[\"悟空因打杀草寇再与唐僧起争执，六耳猕猴趁隙化作悟空，持同样的金箍棒搅乱四方。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空因打杀草寇再与唐僧起争执，六耳猕猴趁隙化作悟空，持同样的金箍棒搅乱四方。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "e88301fbb74fbfd0",
+    "key": "[\"若连我的模样都能学去，便让他学不了我走过的路。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "若连我的模样都能学去，便让他学不了我走过的路。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "4b86e55e4e6406f9",
+    "key": "[\"两名行者从花果山斗到天庭，诸神难辨真假。最后只能往灵山请如来裁决。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "两名行者从花果山斗到天庭，诸神难辨真假。最后只能往灵山请如来裁决。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "374dd34e99defea0",
+    "key": "[\"你学得了俺模样声音，却答不上这一路俺也去护过谁。假的就是假的！\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "你学得了俺模样声音，却答不上这一路俺也去护过谁。假的就是假的！",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "b1f1b227f8ceab27",
+    "key": "[\"你一路靠反抗写下名号，我只需比你更像那份不服，谁又分得清？\",\"六耳\",\"zh-CN-YunxiNeural\",\"+9%\",\"-2Hz\",\"+0%\"]",
+    "text": "你一路靠反抗写下名号，我只需比你更像那份不服，谁又分得清？",
+    "character": "六耳",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+9%",
+    "pitch": "-2Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "a99bcf5aafe936a8",
+    "key": "[\"白骨岭分别时，你逼我逐条说清逐你的缘由。如今辨真假，我也该逐条问，不可只凭眼前。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "白骨岭分别时，你逼我逐条说清逐你的缘由。如今辨真假，我也该逐条问，不可只凭眼前。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "d8440e38b8170a0a",
+    "key": "[\"你曾因师父一难就回头。我若只学你的怒，却学不会那次回头，便还少了最像你的一段。\",\"六耳\",\"zh-CN-YunxiNeural\",\"+9%\",\"-2Hz\",\"+0%\"]",
+    "text": "你曾因师父一难就回头。我若只学你的怒，却学不会那次回头，便还少了最像你的一段。",
+    "character": "六耳",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+9%",
+    "pitch": "-2Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "98f13eaa562dfc0f",
+    "key": "[\"灵山之上，如来说破六耳猕猴能听、能知、能仿悟空的一切外相。假行者现形。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "灵山之上，如来说破六耳猕猴能听、能知、能仿悟空的一切外相。假行者现形。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "648d4ddb0a74d113",
+    "key": "[\"像我不难，难的是担起一路犯过的错和护过的人。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "像我不难，难的是担起一路犯过的错和护过的人。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "090927a43ae26a86",
+    "key": "[\"假悟空伏诛，唐僧与悟空重归一心。心猿经历一场二心之乱，终于再度归正。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "假悟空伏诛，唐僧与悟空重归一心。心猿经历一场二心之乱，终于再度归正。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "bd37fa993069e5f8",
+    "key": "[\"共同记忆已经指出真身。佛祖揭破六耳后，我们该问的是败者如何承担，不再是谁更像。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "共同记忆已经指出真身。佛祖揭破六耳后，我们该问的是败者如何承担，不再是谁更像。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1d621a9959aa3a2a",
+    "key": "[\"若只凭谁打得更狠来判真假，六耳便永远能学你。现在你要决定的，是还要不要继续这样证明。\",\"如来\",\"zh-CN-YunjianNeural\",\"-21%\",\"-23Hz\",\"+0%\"]",
+    "text": "若只凭谁打得更狠来判真假，六耳便永远能学你。现在你要决定的，是还要不要继续这样证明。",
+    "character": "如来",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-21%",
+    "pitch": "-23Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "14f62d056f7e5c2b",
+    "key": "[\"悟空，你方才已经放下一次铁棒。真相既明，还能否把这份克制守到最后？\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "悟空，你方才已经放下一次铁棒。真相既明，还能否把这份克制守到最后？",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "3088d1db1038f090",
+    "key": "[\"一路共同经历已经先于胜负指出真身。到了佛祖座前，我不该再只问哪一个行者更强。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "一路共同经历已经先于胜负指出真身。到了佛祖座前，我不该再只问哪一个行者更强。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e3b4ebbd26f22ecc",
+    "key": "[\"你没有追着表象出棒，而是从他抢拍与听声的习惯里辨出六耳。既已看清，便更该知道如何收尾。\",\"如来\",\"zh-CN-YunjianNeural\",\"-21%\",\"-23Hz\",\"+0%\"]",
+    "text": "你没有追着表象出棒，而是从他抢拍与听声的习惯里辨出六耳。既已看清，便更该知道如何收尾。",
+    "character": "如来",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-21%",
+    "pitch": "-23Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "7a36544138404183",
+    "key": "[\"火焰山八百里火焰，白龙马不敢前行。悟空到芭蕉洞借扇，铁扇公主因旧怨一扇将他扇飞。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "火焰山八百里火焰，白龙马不敢前行。悟空到芭蕉洞借扇，铁扇公主因旧怨一扇将他扇飞。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7fa6783634ebd6b2",
+    "key": "[\"借扇是为过路，不是来翻旧账；可这把扇得先借到手。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "借扇是为过路，不是来翻旧账；可这把扇得先借到手。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "1315c684add3cab1",
+    "key": "[\"旧账未清，凭什么要我替你开路？\",\"铁扇\",\"zh-CN-XiaoxiaoNeural\",\"-4%\",\"-9Hz\",\"+0%\"]",
+    "text": "旧账未清，凭什么要我替你开路？",
+    "character": "铁扇",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-4%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "03aef663b952cac3",
+    "key": "[\"借扇是为过火焰山。红孩儿的事，俺也去可以另说。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "借扇是为过火焰山。红孩儿的事，俺也去可以另说。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "4bcf025b92220dc5",
+    "key": "[\"另说？他如今在何处，你心里没有数吗？\",\"铁扇\",\"zh-CN-XiaoxiaoNeural\",\"-4%\",\"-9Hz\",\"+0%\"]",
+    "text": "另说？他如今在何处，你心里没有数吗？",
+    "character": "铁扇",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-4%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "88ffa33bb2a8697c",
+    "key": "[\"有数。可八百里火挡着的，不只是俺也去一家。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "有数。可八百里火挡着的，不只是俺也去一家。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "19290b79cfdc585d",
+    "key": "[\"悟空变作小虫钻入铁扇公主腹中，得了一把假扇。扇火反添火，第一计落空。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空变作小虫钻入铁扇公主腹中，得了一把假扇。扇火反添火，第一计落空。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "6280150d935b69a5",
+    "key": "[\"悟空寻到牛魔王，变作其妻铁扇公主骗得真扇。八戒在旁助阵，等他回来开山灭火。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空寻到牛魔王，变作其妻铁扇公主骗得真扇。八戒在旁助阵，等他回来开山灭火。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7952ea3a4d92a1e3",
+    "key": "[\"这回扇子到手，俺也去要先辨清它是真是假。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这回扇子到手，俺也去要先辨清它是真是假。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "662dbab6b7d13fdb",
+    "key": "[\"牛魔王识破计策，又变作悟空从八戒手中骗回宝扇。火焰山前，师兄弟只得再寻一计。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "牛魔王识破计策，又变作悟空从八戒手中骗回宝扇。火焰山前，师兄弟只得再寻一计。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "52b22412cd4aa4c4",
+    "key": "[\"牛魔王现本相与悟空争斗，八戒、哪吒等相继助战。真假芭蕉扇在风火中来回易手。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "牛魔王现本相与悟空争斗，八戒、哪吒等相继助战。真假芭蕉扇在风火中来回易手。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b481e71819746cca",
+    "key": "[\"猴哥只管盯住牛魔王，这一边俺也去替你撑住。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥只管盯住牛魔王，这一边俺也去替你撑住。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "42750e958141dd74",
+    "key": "[\"牛魔王被降，芭蕉扇终于归还。悟空持扇立在火焰山前，等一场真风。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "牛魔王被降，芭蕉扇终于归还。悟空持扇立在火焰山前，等一场真风。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b8c4ecc9b00583e3",
+    "key": "[\"你第一次尚知在洞外行礼。今日若真为借路，就别让天兵替你把话说完。\",\"铁扇\",\"zh-CN-XiaoxiaoNeural\",\"-4%\",\"-9Hz\",\"+0%\"]",
+    "text": "你第一次尚知在洞外行礼。今日若真为借路，就别让天兵替你把话说完。",
+    "character": "铁扇",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-4%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "3b4e2de6def2adf2",
+    "key": "[\"头一回便打进我家门，如今再谈结义与借扇，未免太迟！\",\"牛魔\",\"zh-CN-YunjianNeural\",\"-5%\",\"-19Hz\",\"+0%\"]",
+    "text": "头一回便打进我家门，如今再谈结义与借扇，未免太迟！",
+    "character": "牛魔",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-5%",
+    "pitch": "-19Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "abffa03cf0a6ab38",
+    "key": "[\"山民和土地都记得归还之约。今日无论胜负，借来的扇都必须还。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "山民和土地都记得归还之约。今日无论胜负，借来的扇都必须还。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "90b8af17876589fb",
+    "key": "[\"悟空将芭蕉扇连扇四十九下，烈焰渐熄，山路露出。唐僧牵马来到通路前。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空将芭蕉扇连扇四十九下，烈焰渐熄，山路露出。唐僧牵马来到通路前。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "30e0ff65cad80f2e",
+    "key": "[\"这一路烧得再红，也该给后来人留一条能走的路。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这一路烧得再红，也该给后来人留一条能走的路。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "7b28af5d42844ce9",
+    "key": "[\"火焰山风凉地净，师徒越过险关。身后的山火熄了，西天路又向前展开。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "火焰山风凉地净，师徒越过险关。身后的山火熄了，西天路又向前展开。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "104a86041851c32d",
+    "key": "[\"我亲自与你到火口，依约完成三扇。今日这扇是借，不是被谁夺走。\",\"铁扇\",\"zh-CN-XiaoxiaoNeural\",\"-4%\",\"-9Hz\",\"+0%\"]",
+    "text": "我亲自与你到火口，依约完成三扇。今日这扇是借，不是被谁夺走。",
+    "character": "铁扇",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-4%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "1f91c63e951f000e",
+    "key": "[\"钻腹逼扇的旧账，我没有忘。且看你灭火之后，肯不肯把扇子还回来。\",\"铁扇\",\"zh-CN-XiaoxiaoNeural\",\"-4%\",\"-9Hz\",\"+0%\"]",
+    "text": "钻腹逼扇的旧账，我没有忘。且看你灭火之后，肯不肯把扇子还回来。",
+    "character": "铁扇",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-4%",
+    "pitch": "-9Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "2cf56aa59b51fef4",
+    "key": "[\"方才两阵俺也去都替你守住了侧边。如今扇火，咱们再照约把最后一步做全。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "方才两阵俺也去都替你守住了侧边。如今扇火，咱们再照约把最后一步做全。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "28bf03ac338670be",
+    "key": "[\"你把老牛两次冲阵都引到山壁，俺也去才能封住退路。三扇收火，照旧一人一步。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "你把老牛两次冲阵都引到山壁，俺也去才能封住退路。三扇收火，照旧一人一步。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5ba30efe497e0917",
+    "key": "[\"祭赛国金光寺的佛舍利失窃，僧人受冤。唐僧师徒登塔查验，悟空追到碧波潭。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "祭赛国金光寺的佛舍利失窃，僧人受冤。唐僧师徒登塔查验，悟空追到碧波潭。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "6534d8507de521e8",
+    "key": "[\"宝物若能照人，先该照见偷窃和冤屈从哪里起。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "宝物若能照人，先该照见偷窃和冤屈从哪里起。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "a014e3f545b20129",
+    "key": "[\"万圣龙王一党伏法，舍利重回塔顶，佛光再次照亮城门。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "万圣龙王一党伏法，舍利重回塔顶，佛光再次照亮城门。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "11c91dfbf82f334d",
+    "key": "[\"火焰山是依次息火、生风、降雨才冷透的。今日扫塔，也先看清余患再动棒。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "火焰山是依次息火、生风、降雨才冷透的。今日扫塔，也先看清余患再动棒。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "14f57008b23c8cb3",
+    "key": "[\"荆棘岭草木成精，松柏桧竹梅与唐僧谈诗论道，枝蔓却将去路缠得更紧。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "荆棘岭草木成精，松柏桧竹梅与唐僧谈诗论道，枝蔓却将去路缠得更紧。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "ef684a103bcf971f",
+    "key": "[\"诗可相谈，路却不能因此永远不走。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "诗可相谈，路却不能因此永远不走。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "5853466dcdd9ec89",
+    "key": "[\"悟空带八戒砍除荆棘，木仙散去。晨光落在新开的窄路上，师徒继续西行。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空带八戒砍除荆棘，木仙散去。晨光落在新开的窄路上，师徒继续西行。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "bb199f0880c6603a",
+    "key": "[\"小雷音寺佛像庄严，唐僧师徒入殿礼拜，却被黄眉怪用人种袋一并收去。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "小雷音寺佛像庄严，唐僧师徒入殿礼拜，却被黄眉怪用人种袋一并收去。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "aa20a2131d5ea91b",
+    "key": "[\"佛门若只剩一只会吞人的袋子，俺也去先把它的来历问明白。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "佛门若只剩一只会吞人的袋子，俺也去先把它的来历问明白。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "a0c8447a4b06bd1a",
+    "key": "[\"悟空请弥勒相助，以瓜田之计收伏黄眉。假佛散去，师徒才明白眼前庄严未必都可信。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空请弥勒相助，以瓜田之计收伏黄眉。假佛散去，师徒才明白眼前庄严未必都可信。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "aca914be37c443b0",
+    "key": "[\"猴哥，上回你看出试探却不提醒我。这次若又有不对，可别只站着看。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "猴哥，上回你看出试探却不提醒我。这次若又有不对，可别只站着看。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "3507bea3d5bc4bd9",
+    "key": "[\"朱紫国国王因妖怪夺走金圣宫娘娘而病重。悟空化作医生诊脉，又潜入麒麟山盗取紫金铃。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "朱紫国国王因妖怪夺走金圣宫娘娘而病重。悟空化作医生诊脉，又潜入麒麟山盗取紫金铃。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "39406eeab5d17fba",
+    "key": "[\"要救国王，先得让他敢把心里的病说出来。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "要救国王，先得让他敢把心里的病说出来。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "6c3496c64c6e7e71",
+    "key": "[\"赛太岁原是观音坐骑金毛犼，被观音收回。金圣宫重返朱紫国，旧怨终于有了归处。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "赛太岁原是观音坐骑金毛犼，被观音收回。金圣宫重返朱紫国，旧怨终于有了归处。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "48c88360ef92b55f",
+    "key": "[\"盘丝洞七蜘蛛精结网捕鱼，唐僧化缘入洞被掳。八戒在濯垢泉见女妖洗浴，一时失了警觉。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "盘丝洞七蜘蛛精结网捕鱼，唐僧化缘入洞被掳。八戒在濯垢泉见女妖洗浴，一时失了警觉。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "3704abe56ee4c0ed",
+    "key": "[\"俺也去这回确实看走了眼，师父还在洞里，先救人要紧。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "俺也去这回确实看走了眼，师父还在洞里，先救人要紧。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c27914045f44dfd7",
+    "key": "[\"悟空变化救出唐僧，蜘蛛精遁往黄花观。白丝铺满山谷，西行路仍未被困住。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "悟空变化救出唐僧，蜘蛛精遁往黄花观。白丝铺满山谷，西行路仍未被困住。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "62f81c66d5e63625",
+    "key": "[\"黄花观道士端来毒茶，百眼魔君现出千眼金光。悟空与八戒被千眼金光阻住，难以近身。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "黄花观道士端来毒茶，百眼魔君现出千眼金光。悟空与八戒被千眼金光阻住，难以近身。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0421984163a36253",
+    "key": "[\"这光再密，也总有一处不是它自己的眼。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "这光再密，也总有一处不是它自己的眼。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "3353f486cfcd3dd3",
+    "key": "[\"毗蓝婆菩萨以绣花针收住蜈蚣精。盘丝洞后的毒网，到此才真正散尽。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "毗蓝婆菩萨以绣花针收住蜈蚣精。盘丝洞后的毒网，到此才真正散尽。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5ca39e76853c02c5",
+    "key": "[\"狮驼岭三魔占山，妖兵无数。唐僧被掳，悟空钻进狮腹、斗白象，又在大鹏面前几次受挫。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "狮驼岭三魔占山，妖兵无数。唐僧被掳，悟空钻进狮腹、斗白象，又在大鹏面前几次受挫。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "9ec7207cce62b814",
+    "key": "[\"敌手再大，也不能把师父和这条路一口吞下。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "敌手再大，也不能把师父和这条路一口吞下。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "299d47d1355b9c53",
+    "key": "[\"如来收伏大鹏，狮驼国群妖散去。悟空从险处归来，师徒继续穿过空城。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "如来收伏大鹏，狮驼国群妖散去。悟空从险处归来，师徒继续穿过空城。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "497a5bea251fc562",
+    "key": "[\"真假猴王那回，咱们靠一路旧事认回师兄。今日妖怪只说师父已死，俺也去不信！\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "真假猴王那回，咱们靠一路旧事认回师兄。今日妖怪只说师父已死，俺也去不信！",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "59d7f45b85e611c4",
+    "key": "[\"盘丝洞里咱们沿八处受力破绽撕开了网。狮驼岭这句假死讯，也得先找它从哪一根丝上传来。\",\"八戒\",\"zh-CN-YunjianNeural\",\"-2%\",\"-8Hz\",\"+0%\"]",
+    "text": "盘丝洞里咱们沿八处受力破绽撕开了网。狮驼岭这句假死讯，也得先找它从哪一根丝上传来。",
+    "character": "八戒",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-2%",
+    "pitch": "-8Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "e448b60119c70583",
+    "key": "[\"比丘国国王受妖道蛊惑，要用一千一百一十一个孩子的心肝做药引。唐僧师徒进城查明。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "比丘国国王受妖道蛊惑，要用一千一百一十一个孩子的心肝做药引。唐僧师徒进城查明。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0c4e12c5d2141bf5",
+    "key": "[\"救人不能只等法术落定，眼前每个孩子都该先离开笼子。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "救人不能只等法术落定，眼前每个孩子都该先离开笼子。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "55eac1edfc5fa839",
+    "key": "[\"寿星收回白鹿，国丈现原形伏法。城中孩子重回父母怀中，八戒把钉耙悄悄靠在墙边。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "寿星收回白鹿，国丈现原形伏法。城中孩子重回父母怀中，八戒把钉耙悄悄靠在墙边。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "b8bf8447c49280b7",
+    "key": "[\"黑松林与无底洞间，老鼠精几次掳走唐僧。她自称托塔天王义女，悟空不肯只凭一句话定罪。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "黑松林与无底洞间，老鼠精几次掳走唐僧。她自称托塔天王义女，悟空不肯只凭一句话定罪。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a623f95e14b0236c",
+    "key": "[\"认亲也得认个明白，不能拿名头来遮住做过的事。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "认亲也得认个明白，不能拿名头来遮住做过的事。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "e18f48d100676ac0",
+    "key": "[\"李天王与哪吒说明来历，老鼠精被收伏。唐僧离开无底洞，前方已近天竺。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "李天王与哪吒说明来历，老鼠精被收伏。唐僧离开无底洞，前方已近天竺。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "f259d9306d505e81",
+    "key": "[\"凤仙郡三年无雨，百姓困苦。悟空见天上有米山、面山、金锁，知是郡王旧过所致。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "凤仙郡三年无雨，百姓困苦。悟空见天上有米山、面山、金锁，知是郡王旧过所致。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "97b2bfcce4850961",
+    "key": "[\"劝人改过，不是让他永远困在惩罚里，而是让他知道雨还会来。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "劝人改过，不是让他永远困在惩罚里，而是让他知道雨还会来。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "fef06fe82fa02b58",
+    "key": "[\"郡王行善改过，米面山尽、金锁断裂。甘霖落下，干裂的田地重新有了颜色。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "郡王行善改过，米面山尽、金锁断裂。甘霖落下，干裂的田地重新有了颜色。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "a2bf98ffe97f470d",
+    "key": "[\"幽冥拿天命推寿数，天庭又拿国王一过压全郡百姓。这样的推诿，俺也去见过！\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "幽冥拿天命推寿数，天庭又拿国王一过压全郡百姓。这样的推诿，俺也去见过！",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "af2b32c7343f0741",
+    "key": "[\"玉华城王子拜师学艺，悟空、八戒、悟净各授兵器。黄狮精偷走金箍棒和钉耙，惹出九灵元圣。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "玉华城王子拜师学艺，悟空、八戒、悟净各授兵器。黄狮精偷走金箍棒和钉耙，惹出九灵元圣。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "553adaebd54eec01",
+    "key": "[\"兵器可以教，先要教会他们不拿本事欺人。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "兵器可以教，先要教会他们不拿本事欺人。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "8bcdd96ed1f9eb1d",
+    "key": "[\"太乙救苦天尊收回九灵元圣，王子们归还兵器。师徒告别玉华城，向金平府赶去。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "太乙救苦天尊收回九灵元圣，王子们归还兵器。师徒告别玉华城，向金平府赶去。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c20f42d3b233566c",
+    "key": "[\"金平府元夜供奉的香油被盗，悟空追到玄英洞降伏三犀牛；其后在天竺国识破假公主。路经寇员外庄，师徒又助好客的寇员外昭雪，才抵达灵山。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "金平府元夜供奉的香油被盗，悟空追到玄英洞降伏三犀牛；其后在天竺国识破假公主。路经寇员外庄，师徒又助好客的寇员外昭雪，才抵达灵山。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "36a4865e702faa96",
+    "key": "[\"走到灵山也不能把不明白的事当作理所当然。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "走到灵山也不能把不明白的事当作理所当然。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "2f79eeb6a717dcc2",
+    "key": "[\"阿傩、伽叶初给无字经，悟空看出不妥；师徒再返灵山，终取有字真经，乘无底船脱去凡胎。通天河旧约仍在后头。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "阿傩、伽叶初给无字经，悟空看出不妥；师徒再返灵山，终取有字真经，乘无底船脱去凡胎。通天河旧约仍在后头。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "c83d6ed5a1cd9790",
+    "key": "[\"女儿国城门前，我因坦言尚能守住敬意。今日灵山索人事，我也当把疑问说清。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "女儿国城门前，我因坦言尚能守住敬意。今日灵山索人事，我也当把疑问说清。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "37f18d8b20169df8",
+    "key": "[\"女儿国那次权宜，我至今有愧。今日再遇含糊规矩，不能又拿结果替手段开脱。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "女儿国那次权宜，我至今有愧。今日再遇含糊规矩，不能又拿结果替手段开脱。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "dee5f601b2753bd6",
+    "key": "[\"回东土途中，通天河老鼋问唐僧寿数。唐僧忘记相问，老鼋到岸边将师徒连经卷掀入水中。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "回东土途中，通天河老鼋问唐僧寿数。唐僧忘记相问，老鼋到岸边将师徒连经卷掀入水中。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "7f9162a19900d4b1",
+    "key": "[\"经卷湿了还能晒，答应过别人的话，却该记得更牢。\",\"悟净\",\"zh-CN-YunyangNeural\",\"-13%\",\"-11Hz\",\"+0%\"]",
+    "text": "经卷湿了还能晒，答应过别人的话，却该记得更牢。",
+    "character": "悟净",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-13%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "10c382ef268d955e",
+    "key": "[\"晒经时一页落石缺损，九九八十一难终于圆满。师徒携经再登灵山。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "晒经时一页落石缺损，九九八十一难终于圆满。师徒携经再登灵山。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "5eacc036ea7cfce5",
+    "key": "[\"过河时我把寿数托给你们问。一路妖魔记得，偏把这一句忘了么？\",\"老鼋\",\"zh-CN-YunjianNeural\",\"-23%\",\"-27Hz\",\"+0%\"]",
+    "text": "过河时我把寿数托给你们问。一路妖魔记得，偏把这一句忘了么？",
+    "character": "老鼋",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "-23%",
+    "pitch": "-27Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "c58caf548e898709",
+    "key": "[\"真经传回长安，唐王设宴迎接。师徒再上灵山，唐僧成旃檀功德佛，悟空成斗战胜佛，八戒、悟净、白龙马各得果位。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "真经传回长安，唐王设宴迎接。师徒再上灵山，唐僧成旃檀功德佛，悟空成斗战胜佛，八戒、悟净、白龙马各得果位。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "d4ef7e51aebb7a7f",
+    "key": "[\"西行走到这里，不是把来路忘掉，而是把所见带回人间。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "西行走到这里，不是把来路忘掉，而是把所见带回人间。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "972059d8148288d5",
+    "key": "[\"云门之后，四众各得其位。花果山的石猴、五行山的行者与长安的取经人，都成为同一部西行长卷的归处。\",\"旁白\",\"zh-CN-YunyangNeural\",\"-22%\",\"-18Hz\",\"-2%\"]",
+    "text": "云门之后，四众各得其位。花果山的石猴、五行山的行者与长安的取经人，都成为同一部西行长卷的归处。",
+    "character": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-22%",
+    "pitch": "-18Hz",
+    "volume": "-2%"
+  },
+  {
+    "id": "0474fc748faebb53",
+    "key": "[\"这一路最难得的，不是从未争执，而是每次分开之后仍肯回来把话说完。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "这一路最难得的，不是从未争执，而是每次分开之后仍肯回来把话说完。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "ab5825c89e4f88ca",
+    "key": "[\"经已取回，有些未能说开的旧伤却不能由封号替我们抹去。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "经已取回，有些未能说开的旧伤却不能由封号替我们抹去。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "0f79cc402839a252",
+    "key": "[\"白骨岭留下的不是三具假身，是先证真相、再作处置的教训。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "白骨岭留下的不是三具假身，是先证真相、再作处置的教训。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "9a678be36309eadf",
+    "key": "[\"西梁城门那场坦白没留住女王，却教会贫僧：告别也须郑重，不可让沉默代替。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "西梁城门那场坦白没留住女王，却教会贫僧：告别也须郑重，不可让沉默代替。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "83af24bde67899e2",
+    "key": "[\"芭蕉扇俺也去最后还回去了。赢了强敌还能守约，这才算没白走火焰山。\",\"悟空\",\"zh-CN-YunxiNeural\",\"+13%\",\"+24Hz\",\"+4%\"]",
+    "text": "芭蕉扇俺也去最后还回去了。赢了强敌还能守约，这才算没白走火焰山。",
+    "character": "悟空",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+13%",
+    "pitch": "+24Hz",
+    "volume": "+4%"
+  },
+  {
+    "id": "dd9b80daa4569c1c",
+    "key": "[\"灵山也递过无字白本。到了终点，辨认真伪的责任并没有消失。\",\"玄奘\",\"zh-CN-YunyangNeural\",\"-10%\",\"+1Hz\",\"+0%\"]",
+    "text": "灵山也递过无字白本。到了终点，辨认真伪的责任并没有消失。",
+    "character": "玄奘",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-10%",
+    "pitch": "+1Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "83ccb1659857680a",
+    "key": "[\"晒石粘破的经页，我们如实记下。圆满不能靠遮住缺口来冒充。\",\"悟净\",\"zh-CN-YunyangNeural\",\"-13%\",\"-11Hz\",\"+0%\"]",
+    "text": "晒石粘破的经页，我们如实记下。圆满不能靠遮住缺口来冒充。",
+    "character": "悟净",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-13%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  },
+  {
+    "id": "3dff999429add9e5",
+    "key": "[\"落水真经是我们逐卷分开、缓缓揭页，连残片一并护回东土。这份圆满，本就带着真实水痕。\",\"悟净\",\"zh-CN-YunyangNeural\",\"-13%\",\"-11Hz\",\"+0%\"]",
+    "text": "落水真经是我们逐卷分开、缓缓揭页，连残片一并护回东土。这份圆满，本就带着真实水痕。",
+    "character": "悟净",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "-13%",
+    "pitch": "-11Hz",
+    "volume": "+0%"
+  }
+]

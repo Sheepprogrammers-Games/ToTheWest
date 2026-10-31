@@ -1,0 +1,5 @@
+.DS_Store
+.backup/
+tmp/
+node_modules/
+*.log
