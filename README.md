@@ -1,6 +1,14 @@
-# 西行拾卷
+<p align="center">
+  <img src="docs/screenshots/cover.jpg" width="780" alt="西行拾卷 封面">
+</p>
 
-一部以皮影戏形式演出的《西游记》互动剧情游戏。玩家在桌面或平板浏览器中，用 15–30 分钟走完一轮取经路，在每一难做出抉择，塑造师徒关系与取经之志，最终抵达不同的结局。
+<h1 align="center">西行拾卷</h1>
+
+<p align="center">一部以皮影戏形式演出的《西游记》互动剧情游戏</p>
+
+## 简介
+
+玩家在桌面或平板浏览器中，用 15–30 分钟走完一轮取经路，在每一难做出抉择，塑造师徒关系与取经之志，最终抵达不同的结局。
 
 ## 玩法
 
@@ -8,6 +16,16 @@
 - **皮影戏演出**：以剪影、光照与转场构成舞台，画面像一部会呼吸的连环画。
 - **穿插小游戏**：部分关卡包含轻量互动小游戏。
 - **可选语音**：内置语音适配层，可接入本地语音合成服务。
+
+## 画面
+
+<p align="center">
+  <img src="docs/screenshots/01-title.jpg" width="49%" alt="标题与开局">
+  <img src="docs/screenshots/02-scene-peach.jpg" width="49%" alt="场景：蟠桃园">
+</p>
+<p align="center">
+  <img src="docs/screenshots/03-scene-cave.jpg" width="49%" alt="场景：水帘洞">
+</p>
 
 ## 技术栈
 
@@ -50,7 +68,7 @@ ToTheWest/
 ├── voice-adapter.js        语音适配层
 ├── voice_server.py         可选本地语音服务
 ├── assets/                 音频、背景、角色、字体、小游戏、转场、UI、语音
-├── docs/                   设计资料
+├── docs/                   设计资料与画面截图
 └── scripts/                素材与发布工具脚本
 ```
 
